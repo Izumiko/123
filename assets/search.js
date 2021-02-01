@@ -26,7 +26,8 @@
     e.preventDefault();
     var focusedResult = document.querySelector('.site-bookmark-a-focus');
     if (focusedResult) {
-      location.href = focusedResult.href;
+      // location.href = focusedResult.href;
+      focusedResult.click();
     }
   }
 
