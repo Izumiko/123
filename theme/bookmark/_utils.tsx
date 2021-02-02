@@ -10,3 +10,15 @@ export function addPinyin(str: string) {
     style: pinyin.STYLE_NORMAL,
   }).join('');
 }
+
+export function domainName(url: string) {
+  const reg = /(?:\w+\.)+\w+/g;
+  const host = url.match(reg);
+
+  if (host) {
+    var name = host[0].split(".").slice(-2);
+    return ' ' + name[0] + '.' + name[1];
+  } else {
+    return '';
+  }
+}

@@ -1,6 +1,6 @@
 import { React, PagicLayout } from 'https://deno.land/x/pagic/mod.ts';
 import { lowerCase } from "https://deno.land/x/case/mod.ts";
-import { addPinyin } from './_utils.tsx';
+import { addPinyin, domainName } from './_utils.tsx';
 
 const Layout: PagicLayout = ({ config }) => (
   <html>
@@ -26,7 +26,7 @@ const Layout: PagicLayout = ({ config }) => (
             {config.bookmarks.map((item: any) => (
                 <li
                   className={item.category === undefined ? "site-bookmark-li unit-0": "site-bookmark-li site-bookmark-category unit-1 top-gap text-muted text-small"}
-                  data-name={item.category === undefined ? lowerCase(addPinyin(item.name)) : ''}
+                  data-name={item.category === undefined ? lowerCase(addPinyin(item.name) + domainName(item.url)) : ''}
                 >
                   {item.category === undefined?
                   <a href={item.url} className="site-bookmark-a flex-middle" tabIndex={9} target="_blank" >
