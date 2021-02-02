@@ -2,7 +2,7 @@ import { React, PagicLayout } from 'https://deno.land/x/pagic/mod.ts';
 import { lowerCase } from "https://deno.land/x/case/mod.ts";
 import { addPinyin, domainName } from './_utils.tsx';
 
-const Layout: PagicLayout = ({ config }) => (
+const Layout: PagicLayout = ({ config }: any) => (
   <html>
     <head>
       <meta charSet="utf-8"/>
@@ -39,7 +39,7 @@ const Layout: PagicLayout = ({ config }) => (
           </ul>
           <footer className="text-center top-gap-big text-muted text-small">
             <hr/>
-            <p>Like this page? <a className="text-muted" href="https://github.com/xcatliu/123">Fork me</a> to create your own!</p>
+            <p>Powered By <a className="text-muted" href="https://github.com/Izumiko/123">123</a></p>
           </footer>
         </div>
       </div>
