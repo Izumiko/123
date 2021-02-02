@@ -22,7 +22,7 @@ export default {
     'contributors': [
         "Izumiko"
     ],
-    'date': "2021-02-01T16:40:57.000Z",
+    'date': "2021-02-02T05:40:36.000Z",
     'updated': null,
     'excerpt': "",
     'cover': undefined
