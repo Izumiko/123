@@ -7,7 +7,7 @@
     "build": "deno run --unstable --allow-read --allow-write --allow-net --allow-run https://deno.land/x/pagic/mod.ts build",
     "install": "deno install --unstable --allow-read --allow-write --allow-net --allow-run --name=pagic https://deno.land/x/pagic/mod.ts
 ",
-    "updatefavicon": "deno run --allow-net --allow-read --allow-write update-favicon.ts"
+    "updatefavicon": "deno run --allow-net --allow-read --allow-write update-favicon.ts",
     "deploy:vercel": "sh deploy-vercel.sh"
   },
   "author": "izumiko <yosoro@outlook.com>",
