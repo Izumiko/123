@@ -18,11 +18,11 @@ export default {
             __html: ''
         } }),
     'toc': null,
-    'author': "Izumiko",
+    'author': "Songtao",
     'contributors': [
-        "Izumiko"
+        "Songtao"
     ],
-    'date': "2021-02-02T06:47:29.000Z",
+    'date': "2021-02-06T16:04:30.000Z",
     'updated': null,
     'excerpt': "",
     'cover': undefined
