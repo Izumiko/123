@@ -22,7 +22,7 @@ export default {
     'contributors': [
         "Songtao"
     ],
-    'date': "2021-02-06T16:04:30.000Z",
+    'date': "2021-02-06T16:06:26.000Z",
     'updated': null,
     'excerpt': "",
     'cover': undefined
