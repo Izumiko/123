@@ -17,7 +17,7 @@ export default {
     {
       "name": "未来花园",
       "url": "http://buaabt.cn/",
-      "favicon": "buaabt.cn.png"
+      "favicon": "buaabt.cn.ico"
     },
     {
       "name": "IT之家",
@@ -55,7 +55,7 @@ export default {
     {
       "name": "Gmail",
       "url": "https://mail.google.com/",
-      "favicon": "mail.google.com.png"
+      "favicon": "mail.google.com.ico"
     },
     {
       "name": "QQ邮箱",
@@ -75,7 +75,7 @@ export default {
     {
       "name": "Zoho Calendar",
       "url": "https://calendar.zoho.com.cn/mycalendar",
-      "favicon": "calendar.zoho.com.cn.png"
+      "favicon": "calendar.zoho.com.cn.ico"
     },
     {
       "name": "网易邮箱",
@@ -153,7 +153,7 @@ export default {
     {
       "name": "Tumblr",
       "url": "https://www.tumblr.com/",
-      "favicon": "www.tumblr.com.png"
+      "favicon": "www.tumblr.com.ico"
     },
     {
       "name": "reddit",
@@ -166,9 +166,9 @@ export default {
       "favicon": "discord.com.png"
     },
     {
-      "name": "梨园 - 主机讨论",
-      "url": "https://bbs.liyuans.com/",
-      "favicon": "bbs.liyuans.com.png"
+      "name": "HostEvaluate BBS",
+      "url": "https://bbs.hostevaluate.com/",
+      "favicon": "bbs.hostevaluate.com.ico"
     },
     {
       "name": "NGA玩家社区",
@@ -191,12 +191,12 @@ export default {
     {
       "name": "六维空间",
       "url": "http://bt.neu6.edu.cn/",
-      "favicon": "bt.neu6.edu.cn.png"
+      "favicon": "bt.neu6.edu.cn.ico"
     },
     {
       "name": "北京交通大学知行PT",
       "url": "http://pt.zhixing.bjtu.edu.cn/",
-      "favicon": "pt.zhixing.bjtu.edu.cn.png"
+      "favicon": "pt.zhixing.bjtu.edu.cn.ico"
     },
     {
       "name": "ExoticaZ",
@@ -217,21 +217,6 @@ export default {
       "name": "RuTracker.org",
       "url": "https://rutracker.org/forum/index.php",
       "favicon": "rutracker.org,index.php.png"
-    },
-    {
-      "name": "PREdb",
-      "url": "https://predb.ovh/",
-      "favicon": "predb.ovh.png"
-    },
-    {
-      "name": "PreDB.me",
-      "url": "https://predb.me/",
-      "favicon": "predb.me.png"
-    },
-    {
-      "name": "Scnlog.me",
-      "url": "https://scnlog.me/",
-      "favicon": "scnlog.me.png"
     },
     {
       "category": "网盘"
@@ -259,7 +244,7 @@ export default {
     {
       "name": "OneDrive",
       "url": "https://onedrive.live.com/",
-      "favicon": "onedrive.live.com.png"
+      "favicon": "onedrive.live.com.ico"
     },
     {
       "name": "Dropbox",
@@ -378,11 +363,6 @@ export default {
       "favicon": "www.tsdm39.net.png"
     },
     {
-      "name": "ACG狗屋",
-      "url": "http://www.acgdoge.net/",
-      "favicon": "www.acgdoge.net.png"
-    },
-    {
       "name": "琉璃神社",
       "url": "https://www.liuli.cat/wp/?lang=cn",
       "favicon": "www.liuli.cat.png"
@@ -409,8 +389,8 @@ export default {
     },
     {
       "name": "绅士仓库",
-      "url": "https://cangku.one/",
-      "favicon": "cangku.one.png"
+      "url": "https://cangku.io/",
+      "favicon": "cangku.io.png"
     },
     {
       "name": "绅士仓库网址发布页",
@@ -505,18 +485,13 @@ export default {
     },
     {
       "name": "媚韵",
-      "url": "http://meiyun2333.top/",
-      "favicon": "meiyun2333.top.png"
+      "url": "http://meiyuns.com/",
+      "favicon": "meiyuns.com.png"
     },
     {
       "name": "百合图片",
       "url": "http://yuriimg.com/",
       "favicon": "yuriimg.com.png"
-    },
-    {
-      "name": "Cosplay联盟",
-      "url": "https://www.cosplaymore.com/",
-      "favicon": "www.cosplaymore.com.png"
     },
     {
       "name": "Pinterest",
@@ -525,8 +500,13 @@ export default {
     },
     {
       "name": "Pixiv Illustration Collection",
-      "url": "https://pixivic.com/",
-      "favicon": "pixivic.com.png"
+      "url": "https://sharemoe.net/",
+      "favicon": "sharemoe.net.png"
+    },
+    {
+      "name": "Anime-Pictures",
+      "url": "https://anime-pictures.net/?lang=zh_CN",
+      "favicon": "anime-pictures.net.png"
     },
     {
       "category": "Anime-轻小说"
@@ -712,6 +692,11 @@ export default {
       "favicon": "avgle.com.png"
     },
     {
+      "name": "Jable.TV",
+      "url": "https://jable.tv/",
+      "favicon": "jable.tv.png"
+    },
+    {
       "name": "JavBus",
       "url": "https://www.javbus.com/",
       "favicon": "www.javbus.com.png"
@@ -810,6 +795,11 @@ export default {
       "name": "E-Hentai",
       "url": "https://e-hentai.org/",
       "favicon": "hentai.org.png"
+    },
+    {
+      "name": "NyaHentai",
+      "url": "https://cathentai.com/",
+      "favicon": "cathentai.com.ico"
     },
     {
       "category": "工具"
@@ -965,11 +955,6 @@ export default {
       "favicon": "tool.lu.png"
     },
     {
-      "name": "奶牛快传",
-      "url": "https://cowtransfer.com/",
-      "favicon": "cowtransfer.com.png"
-    },
-    {
       "name": "TMP.link",
       "url": "https://app.tmp.link/",
       "favicon": "app.tmp.link.png"
@@ -1064,8 +1049,8 @@ export default {
     },
     {
       "name": "Nim中文社区",
-      "url": "https://nim-cn.com/",
-      "favicon": "cn.com.png"
+      "url": "https://nim-lang-cn.org/",
+      "favicon": "nim-lang-cn.org.png"
     },
     {
       "category": "教程&资料"
@@ -1114,6 +1099,11 @@ export default {
       "name": "黑果小兵的部落阁",
       "url": "https://blog.daliansky.net/",
       "favicon": "blog.daliansky.net.png"
+    },
+    {
+      "name": "NAS云论坛",
+      "url": "http://www.nasyun.com/",
+      "favicon": "www.nasyun.com.png"
     },
     {
       "category": "学习"
@@ -1204,6 +1194,11 @@ export default {
     {
       "name": "碧蓝航线WIKI",
       "url": "https://wiki.biligame.com/blhx/%E9%A6%96%E9%A1%B5",
+      "favicon": "wiki.biligame.com.png"
+    },
+    {
+      "name": "原神WIKI",
+      "url": "https://wiki.biligame.com/ys/%E9%A6%96%E9%A1%B5",
       "favicon": "wiki.biligame.com.png"
     },
     {
@@ -1351,11 +1346,6 @@ export default {
       "name": "飞扬时空作品汇总",
       "url": "http://blog.sina.com.cn/s/blog_89a729a40102wjwp.html",
       "favicon": "blog.sina.com.cn,blog_89a729a40102wjwp.html.png"
-    },
-    {
-      "name": "CAD/CAM自由空间",
-      "url": "http://www.hao007.net/bbs/forum.php?mod=forumdisplay&fid=15",
-      "favicon": "www.hao007.net,forum.php.png"
     },
     {
       "category": "云"
@@ -1622,6 +1612,11 @@ export default {
       "name": "彩云翻译",
       "url": "https://fanyi.caiyunapp.com/",
       "favicon": "fanyi.caiyunapp.com.png"
+    },
+    {
+      "name": "OpenL",
+      "url": "https://openl.club/",
+      "favicon": "openl.club.ico"
     },
     {
       "category": "Blogs Collection"
