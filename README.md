@@ -18,10 +18,12 @@ add bookmarks to pagic.config.ts
 ## download favicon
 
 ```shell
-deno run --allow-net --allow-read --allow-write update-favicon.ts
+deno run --unstable --allow-net --allow-read --allow-write update-favicon.ts
+# For force updating favicon:
+deno run --unstable --allow-net --allow-read --allow-write update-favicon.ts --force
 ```
 
-then copy content of `pagic.config.json` to `pagic.config.ts`
+then copy content of `pagic.config.json` to `pagic.config.ts`, and delete `src/imgold` folder.
 
 ## run pagic
 
