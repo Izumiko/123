@@ -180,8 +180,8 @@ export default {
     },
     {
       "name": "M-Team",
-      "url": "https://pt.m-team.cc/",
-      "favicon": "pt.m,team.cc.png"
+      "url": "https://kp.m-team.cc/",
+      "favicon": "kp.m,team.cc.png"
     },
     {
       "name": "北邮人BT",
@@ -1132,6 +1132,11 @@ export default {
       "name": "arXiv",
       "url": "https://arxiv.org/",
       "favicon": "arxiv.org.png"
+    },
+    {
+      "name": "Researcher",
+      "url": "https://www.researcher-app.com/",
+      "favicon": "www.researcher,app.com.png"
     },
     {
       "name": "最新SCI期刊查询及投稿分析系统",
