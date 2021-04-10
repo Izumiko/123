@@ -336,8 +336,8 @@ export default {
     },
     {
       "name": "萌の领域",
-      "url": "https://imoe.org/",
-      "favicon": "imoe.org.png"
+      "url": "https://www.moe.fan/",
+      "favicon": "www.moe.fan.png"
     },
     {
       "name": "VTBs in bilibili",
