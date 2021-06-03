@@ -258,8 +258,8 @@ export default {
     },
     {
       "name": "MEGA",
-      "url": "https://mega.nz/",
-      "favicon": "mega.nz.png"
+      "url": "https://mega.io/",
+      "favicon": "mega.io.png"
     },
     {
       "name": "天翼云网盘",
@@ -300,6 +300,11 @@ export default {
       "favicon": "www.tucao.one.png"
     },
     {
+      "name": "AGE动漫",
+      "url": "https://www.agefans.cc",
+      "favicon": "www.agefans.cc.png"
+    },
+    {
       "name": "巴哈姆特動畫瘋",
       "url": "https://ani.gamer.com.tw/",
       "favicon": "ani.gamer.com.tw.png"
@@ -338,6 +343,11 @@ export default {
       "name": "萌の领域",
       "url": "https://www.moe.fan/",
       "favicon": "www.moe.fan.png"
+    },
+    {
+      "name": "萌の领域-导航页",
+      "url": "https://www.acg.lc/",
+      "favicon": "www.acg.lc.png"
     },
     {
       "name": "VTBs in bilibili",
@@ -527,11 +537,6 @@ export default {
       "favicon": "www.esjzone.cc.png"
     },
     {
-      "name": "不可能的世界",
-      "url": "https://www.8kana.com/",
-      "favicon": "www.8kana.com.png"
-    },
-    {
       "name": "亲小说网",
       "url": "https://www.qinxiaoshuo.com/",
       "favicon": "www.qinxiaoshuo.com.png"
@@ -588,9 +593,9 @@ export default {
       "favicon": "mangakakalot.com.png"
     },
     {
-      "name": "Vol.moe",
-      "url": "https://volmoe.com/",
-      "favicon": "volmoe.com.png"
+      "name": "mox.moe",
+      "url": "https://mox.moe",
+      "favicon": "mox.moe.png"
     },
     {
       "category": "Anime-二次元购物"
@@ -632,6 +637,11 @@ export default {
       "name": "Multi-service image search",
       "url": "https://iqdb.org/",
       "favicon": "iqdb.org.png"
+    },
+    {
+      "name": "SauceNAO",
+      "url": "https://saucenao.com/",
+      "favicon": "saucenao.com.png"
     },
     {
       "name": "一言API",
@@ -697,6 +707,11 @@ export default {
       "favicon": "jable.tv.png"
     },
     {
+      "name": "SpankBang",
+      "url": "https://www.spankbang.com/",
+      "favicon": "www.spankbang.com.png"
+    },
+    {
       "name": "JavBus",
       "url": "https://www.javbus.com/",
       "favicon": "www.javbus.com.png"
@@ -748,7 +763,7 @@ export default {
     },
     {
       "name": "viral.porn",
-      "url": "https://viral.porn/",
+      "url": "https://viralporn.com/",
       "favicon": "viral.porn.png"
     },
     {
@@ -980,16 +995,6 @@ export default {
       "favicon": "withpinbox.com.png"
     },
     {
-      "name": "DivineEngine/Profiles",
-      "url": "https://github.com/DivineEngine/Profiles/tree/master",
-      "favicon": "github.com.png"
-    },
-    {
-      "name": "Clash",
-      "url": "https://tmpclashpremiumbindary.cf/",
-      "favicon": "tmpclashpremiumbindary.cf.png"
-    },
-    {
       "category": "开发"
     },
     {
@@ -1081,6 +1086,11 @@ export default {
       "favicon": "bbs.nas66.com.png"
     },
     {
+      "name": "NAS云论坛",
+      "url": "http://www.nasyun.com/",
+      "favicon": "www.nasyun.com.png"
+    },
+    {
       "name": "Boot option - Rockchip",
       "url": "http://opensource.rock-chips.com/wiki_Boot_option",
       "favicon": "opensource.rock,chips.com.png"
@@ -1099,11 +1109,6 @@ export default {
       "name": "黑果小兵的部落阁",
       "url": "https://blog.daliansky.net/",
       "favicon": "blog.daliansky.net.png"
-    },
-    {
-      "name": "NAS云论坛",
-      "url": "http://www.nasyun.com/",
-      "favicon": "www.nasyun.com.png"
     },
     {
       "category": "学习"
