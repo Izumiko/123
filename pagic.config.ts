@@ -315,6 +315,16 @@ export default {
       "favicon": "myanimelist.net.png"
     },
     {
+      "name": "AniDB",
+      "url": "https://anidb.net/",
+      "favicon": "anidb.net.png"
+    },
+    {
+      "name": "The Movie Database",
+      "url": "https://www.themoviedb.org/",
+      "favicon": "www.themoviedb.org.png"
+    },
+    {
       "name": "iwara",
       "url": "https://www.iwara.tv/?language=zh-hans",
       "favicon": "www.iwara.tv.png"
