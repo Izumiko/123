@@ -185,8 +185,8 @@ export default {
     },
     {
       "name": "北邮人BT",
-      "url": "https://bt.byr.cn/",
-      "favicon": "bt.byr.cn.png"
+      "url": "https://byr.pt/",
+      "favicon": "byr.pt.png"
     },
     {
       "name": "六维空间",
@@ -808,8 +808,8 @@ export default {
     },
     {
       "name": "EroVoice",
-      "url": "http://ww8.erovoice.us/",
-      "favicon": "ww8.erovoice.us.png"
+      "url": "https://dl.erovoice.us/",
+      "favicon": "dl.erovoice.us.png"
     },
     {
       "name": "e绅士社区",
@@ -1695,6 +1695,11 @@ export default {
       "name": "Yukino 理想乡",
       "url": "https://neko.re/",
       "favicon": "neko.re.png"
+    },
+    {
+      "name": "犬's Blog",
+      "url": "https://moedog.org/",
+      "favicon": "moedog.org.png"
     }
   ]
 };
