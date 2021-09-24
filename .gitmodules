@@ -1,0 +1,3 @@
+[submodule "themes/bookmark"]
+	path = themes/bookmark
+	url = https://github.com/Izumiko/bookmark.git

@@ -11,3 +11,5 @@ public
 .deploy*
 
 dist
+public
+resources

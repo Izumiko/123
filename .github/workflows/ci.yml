@@ -3,28 +3,27 @@ name: gh-pages
 on:
   push:
     branches:
-      - master
+      - hugo
+  pull_request:
 
 jobs:
-  build-and-deploy:
-    runs-on: ubuntu-18.04
+  deploy:
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
-
-      - name: Setup deno
-        uses: denolib/setup-deno@v2
         with:
-          deno-version: v1.7.0
+          submodules: true
+          fetch-depth: 0
 
-      - name: Build gh-pages
-        run: |
-          deno --version
-          deno install --unstable --allow-read --allow-write --allow-net --allow-run --name=pagic https://deno.land/x/pagic/mod.ts
-          pagic build
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          # extended: true
 
       - name: Deploy gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./public
           cname: 123.7t.ee

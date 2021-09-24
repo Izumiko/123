@@ -2,31 +2,22 @@
 
 Base on [xcatliu/123](https://github.com/xcatliu/123)
 
-## install deno and pagic
-
-```shell
-# Install deno https://deno.land/#installation
-curl -fsSL https://deno.land/x/install/install.sh | sh
-# Install Pagic
-deno install --unstable --allow-read --allow-write --allow-net --allow-run --name=pagic https://deno.land/x/pagic/mod.ts
-```
+Hugo version.
 
 ## config
 
-add bookmarks to pagic.config.ts
+add bookmarks to `data/websites.yml`
 
 ## download favicon
 
-```shell
-deno run --unstable --allow-net --allow-read --allow-write update-favicon.ts
-# For force updating favicon:
-deno run --unstable --allow-net --allow-read --allow-write update-favicon.ts --force
-```
+build updateData tool with golang, then run it in current folder.
 
-then copy content of `pagic.config.json` to `pagic.config.ts`, and delete `src/imgold` folder.
+new data will locate at `data/new.yml`.
 
-## run pagic
+then move `data/new.yml` to `data/websites.yml`, and delete `content/img-old` folder.
+
+## build website
 
 ```shell
-pagic build --watch --serve
+hugo
 ```

@@ -1,0 +1,1354 @@
+index:
+- category: 常用
+  links:
+  - title: 百度
+    url: https://www.baidu.com/
+    favicon: img/www.baidu.com.png
+    searchwords: 百度 baidu bd baidu.com
+  - title: Google
+    url: https://www.google.com/webhp?hl=zh-CN
+    favicon: img/www.google.com.png
+    searchwords: Google   google.com
+  - title: 未来花园
+    url: http://buaabt.cn/
+    favicon: img/buaabt.cn.ico
+    searchwords: 未来花园 weilaihuayuan wlhy buaabt.cn
+  - title: IT之家
+    url: https://www.ithome.com/
+    favicon: img/www.ithome.com.png
+    searchwords: IT之家 zhijia zj ithome.com
+  - title: 哔哩哔哩
+    url: https://www.bilibili.com/
+    favicon: img/www.bilibili.com.png
+    searchwords: 哔哩哔哩 bilibili blbl bilibili.com
+  - title: Bangumi
+    url: https://bgm.tv/
+    favicon: img/bgm.tv.png
+    searchwords: Bangumi   bgm.tv
+  - title: 番组放送
+    url: https://bgmlist.com/
+    favicon: img/bgmlist.com.png
+    searchwords: 番组放送 fanzufangsong fzfs bgmlist.com
+  - title: Inoreader
+    url: https://www.inoreader.com/
+    favicon: img/www.inoreader.com.png
+    searchwords: Inoreader   inoreader.com
+- category: 邮箱
+  links:
+  - title: Outlook
+    url: https://outlook.live.com/mail/
+    favicon: img/outlook.live.com.png
+    searchwords: Outlook   live.com
+  - title: Gmail
+    url: https://mail.google.com/
+    favicon: img/mail.google.com.ico
+    searchwords: Gmail   google.com
+  - title: QQ邮箱
+    url: https://mail.qq.com/
+    favicon: img/mail.qq.com.png
+    searchwords: QQ邮箱 youxiang yx qq.com
+  - title: BuaaMail
+    url: https://mail.buaa.edu.cn/
+    favicon: img/mail.buaa.edu.cn.png
+    searchwords: BuaaMail   edu.cn
+  - title: Zoho Mail CN
+    url: https://mail.zoho.com.cn/
+    favicon: img/mail.zoho.com.cn.png
+    searchwords: Zoho Mail CN   com.cn
+  - title: Zoho Calendar
+    url: https://calendar.zoho.com.cn/mycalendar
+    favicon: img/calendar.zoho.com.cn.ico
+    searchwords: Zoho Calendar   com.cn
+  - title: 网易邮箱
+    url: http://email.163.com/
+    favicon: img/email.163.com.png
+    searchwords: 网易邮箱 wangyiyouxiang wyyx 163.com
+  - title: Migadu Webmail
+    url: https://webmail.migadu.com/
+    favicon: img/webmail.migadu.com.png
+    searchwords: Migadu Webmail   migadu.com
+  - title: ProtonMail
+    url: https://protonmail.com/zh-Hans/
+    favicon: img/protonmail.com.png
+    searchwords: ProtonMail   protonmail.com
+  - title: ForwardEmail
+    url: https://forwardemail.net/
+    favicon: img/forwardemail.net.png
+    searchwords: ForwardEmail   forwardemail.net
+- category: 社交
+  links:
+  - title: V2EX
+    url: https://www.v2ex.com/
+    favicon: img/www.v2ex.com.png
+    searchwords: V2EX   v2ex.com
+  - title: Stage1st
+    url: https://bbs.saraba1st.com/2b/forum.php
+    favicon: img/bbs.saraba1st.com,forum.php.png
+    searchwords: Stage1st   saraba1st.com
+  - title: 知乎
+    url: https://www.zhihu.com/
+    favicon: img/www.zhihu.com.png
+    searchwords: 知乎 zhihu zh zhihu.com
+  - title: 新浪微博
+    url: https://weibo.com/home?is_ori=1&is_forward=1&is_text=1&is_pic=1&is_video=1&is_music=1&is_article=1&is_search=1
+    favicon: img/weibo.com.png
+    searchwords: 新浪微博 xinlangweibo xlwb weibo.com
+  - title: 水木社区
+    url: http://www.newsmth.net/
+    favicon: img/www.newsmth.net.png
+    searchwords: 水木社区 shuimushequ smsq newsmth.net
+  - title: 小木虫
+    url: http://muchong.com/
+    favicon: img/muchong.com.png
+    searchwords: 小木虫 xiaomuchong xmc muchong.com
+  - title: Twitter
+    url: https://twitter.com/
+    favicon: img/twitter.com.png
+    searchwords: Twitter   twitter.com
+  - title: 移动叔叔
+    url: http://www.ydss.cn/
+    favicon: img/www.ydss.cn.png
+    searchwords: 移动叔叔 yidongshushu ydss ydss.cn
+  - title: Facebook
+    url: https://www.facebook.com/
+    favicon: img/www.facebook.com.png
+    searchwords: Facebook   facebook.com
+  - title: LinkedIn
+    url: http://www.linkedin.com/
+    favicon: img/www.linkedin.com.png
+    searchwords: LinkedIn   linkedin.com
+  - title: Tumblr
+    url: https://www.tumblr.com/
+    favicon: img/www.tumblr.com.ico
+    searchwords: Tumblr   tumblr.com
+  - title: reddit
+    url: https://www.reddit.com/
+    favicon: img/www.reddit.com.png
+    searchwords: reddit   reddit.com
+  - title: Discord
+    url: https://discord.com/
+    favicon: img/discord.com.png
+    searchwords: Discord   discord.com
+  - title: HostEvaluate BBS
+    url: https://bbs.hostevaluate.com/
+    favicon: img/bbs.hostevaluate.com.ico
+    searchwords: HostEvaluate BBS   hostevaluate.com
+  - title: NGA玩家社区
+    url: https://bbs.nga.cn/
+    favicon: img/bbs.nga.cn.png
+    searchwords: NGA玩家社区 wanjiashequ wjsq nga.cn
+- category: PT
+  links:
+  - title: M-Team
+    url: https://kp.m-team.cc/
+    favicon: img/kp.m,team.cc.png
+    searchwords: M-Team   kp.m
+  - title: 北邮人BT
+    url: https://byr.pt/
+    favicon: img/byr.pt.png
+    searchwords: 北邮人BT beiyouren byr byr.pt
+  - title: 六维空间
+    url: http://bt.neu6.edu.cn/
+    favicon: img/bt.neu6.edu.cn.ico
+    searchwords: 六维空间 liuweikongjian lwkj edu.cn
+  - title: 北京交通大学知行PT
+    url: http://pt.zhixing.bjtu.edu.cn/
+    favicon: img/pt.zhixing.bjtu.edu.cn.ico
+    searchwords: 北京交通大学知行PT beijingjiaotongdaxuezhixing bjjtdxzx edu.cn
+  - title: ExoticaZ
+    url: https://exoticaz.to/
+    favicon: img/exoticaz.to.png
+    searchwords: ExoticaZ   exoticaz.to
+  - title: Anime Torrents
+    url: https://animetorrents.me/
+    favicon: img/animetorrents.me.png
+    searchwords: Anime Torrents   animetorrents.me
+  - title: RARBG Torrents
+    url: https://rarbgprx.org/torrents.php
+    favicon: img/rarbgprx.org,torrents.php.png
+    searchwords: RARBG Torrents   rarbgprx.org
+  - title: RuTracker.org
+    url: https://rutracker.org/forum/index.php
+    favicon: img/rutracker.org,index.php.png
+    searchwords: RuTracker.org   rutracker.org
+- category: 网盘
+  links:
+  - title: 坚果云
+    url: https://www.jianguoyun.com/
+    favicon: img/www.jianguoyun.com.png
+    searchwords: 坚果云 jianguoyun jgy jianguoyun.com
+  - title: 百度网盘
+    url: https://pan.baidu.com/disk/home
+    favicon: img/pan.baidu.com.png
+    searchwords: 百度网盘 baiduwangpan bdwp baidu.com
+  - title: Google 云端硬盘
+    url: https://drive.google.com/drive/my-drive
+    favicon: img/drive.google.com.png
+    searchwords: Google 云端硬盘 yunduanyingpan ydyp google.com
+  - title: Google 相册
+    url: https://photos.google.com/
+    favicon: img/photos.google.com.png
+    searchwords: Google 相册 xiangce xc google.com
+  - title: OneDrive
+    url: https://onedrive.live.com/
+    favicon: img/onedrive.live.com.ico
+    searchwords: OneDrive   live.com
+  - title: Dropbox
+    url: https://www.dropbox.com/
+    favicon: img/www.dropbox.com.png
+    searchwords: Dropbox   dropbox.com
+  - title: Yandex.Disk
+    url: https://disk.yandex.com/client/disk
+    favicon: img/disk.yandex.com.png
+    searchwords: Yandex.Disk   yandex.com
+  - title: MEGA
+    url: https://mega.io/
+    favicon: img/mega.io.png
+    searchwords: MEGA   mega.io
+  - title: 天翼云网盘
+    url: https://cloud.189.cn/
+    favicon: img/cloud.189.cn.png
+    searchwords: 天翼云网盘 tianyiyunwangpan tyywp 189.cn
+  - title: 北航云盘
+    url: https://bhpan.buaa.edu.cn/
+    favicon: img/bhpan.buaa.edu.cn.png
+    searchwords: 北航云盘 beihangyunpan bhyp edu.cn
+  - title: 和彩云
+    url: https://yun.139.com/
+    favicon: img/yun.139.com.png
+    searchwords: 和彩云 hecaiyun hcy 139.com
+  - title: Seafile
+    url: https://www.seafile.com/en/home/
+    favicon: img/www.seafile.com.png
+    searchwords: Seafile   seafile.com
+  - title: 阿里云盘
+    url: https://yunpan.aliyun.com/
+    favicon: img/yunpan.aliyun.com.png
+    searchwords: 阿里云盘 aliyunpan alyp aliyun.com
+- category: Anime
+  links:
+  - title: AcFun
+    url: https://www.acfun.cn/
+    favicon: img/www.acfun.cn.png
+    searchwords: AcFun   acfun.cn
+  - title: 吐槽弹幕网
+    url: https://www.tucao.one/
+    favicon: img/www.tucao.one.png
+    searchwords: 吐槽弹幕网 tucaodanmuwang tcdmw tucao.one
+  - title: AGE动漫
+    url: https://www.agefans.cc
+    favicon: img/www.agefans.cc.png
+    searchwords: AGE动漫 dongman dm agefans.cc
+  - title: 巴哈姆特動畫瘋
+    url: https://ani.gamer.com.tw/
+    favicon: img/ani.gamer.com.tw.png
+    searchwords: 巴哈姆特動畫瘋 bahamutedonghuafeng bhmtdhf com.tw
+  - title: MyAnimeList
+    url: https://myanimelist.net/
+    favicon: img/myanimelist.net.png
+    searchwords: MyAnimeList   myanimelist.net
+  - title: AniDB
+    url: https://anidb.net/
+    favicon: img/anidb.net.png
+    searchwords: AniDB   anidb.net
+  - title: The Movie Database
+    url: https://www.themoviedb.org/
+    favicon: img/www.themoviedb.org.png
+    searchwords: The Movie Database   themoviedb.org
+  - title: iwara
+    url: https://www.iwara.tv/?language=zh-hans
+    favicon: img/www.iwara.tv.png
+    searchwords: iwara   iwara.tv
+  - title: 忧郁的loli_忧郁的弟弟
+    url: https://www.kkgal.com/
+    favicon: img/www.kkgal.com.png
+    searchwords: 忧郁的loli_忧郁的弟弟 youyudeyouyudedidi yydyyddd kkgal.com
+  - title: Sankaku Complex
+    url: https://www.sankakucomplex.com/
+    favicon: img/www.sankakucomplex.com.png
+    searchwords: Sankaku Complex   sankakucomplex.com
+  - title: God is Madoka
+    url: https://kami.im/
+    favicon: img/kami.im.png
+    searchwords: God is Madoka   kami.im
+  - title: 动漫岛
+    url: http://www.dm55.cc/
+    favicon: ""
+    searchwords: 动漫岛 dongmandao dmd dm55.cc
+  - title: 萌の领域
+    url: https://www.moe.fan/
+    favicon: img/www.moe.fan.png
+    searchwords: 萌の领域 menglingyu mly moe.fan
+  - title: 萌の领域-导航页
+    url: https://www.acg.lc/
+    favicon: img/www.acg.lc.png
+    searchwords: 萌の领域-导航页 menglingyudaohangye mlydhy acg.lc
+  - title: VTBs in bilibili
+    url: https://vtbs.moe/
+    favicon: img/vtbs.moe.png
+    searchwords: VTBs in bilibili   vtbs.moe
+  - title: 「偶像大师 MillionLive! 」非公式中文资料仓
+    url: http://765pro.theater/?variant=zh-hans
+    favicon: img/765pro.theater.png
+    searchwords: 「偶像大师 MillionLive! 」非公式中文资料仓 ouxiangdashifeigongshizhongwenziliaocang
+      oxdsfgszwzlc 765pro.theater
+  - title: 游戏资源-飞雪娱乐网
+    url: https://www.feixuew.com/sort/yxzy
+    favicon: img/www.feixuew.com.png
+    searchwords: 游戏资源-飞雪娱乐网 youxiziyuanfeixueyulewang yxzyfxylw feixuew.com
+- category: Anime-社区
+  links:
+  - title: 天使动漫论坛
+    url: https://www.tsdm39.net/
+    favicon: img/www.tsdm39.net.png
+    searchwords: 天使动漫论坛 tianshidongmanluntan tsdmlt tsdm39.net
+  - title: 琉璃神社
+    url: https://www.liuli.cat/wp/?lang=cn
+    favicon: img/www.liuli.cat.png
+    searchwords: 琉璃神社 liulishenshe llss liuli.cat
+  - title: 琉璃神社网址发布页
+    url: http://acg.gy/
+    favicon: ""
+    searchwords: 琉璃神社网址发布页 liulishenshewangzhifabuye llsswzfby acg.gy
+  - title: 灵梦御所
+    url: https://blog.reimu.net/
+    favicon: img/blog.reimu.net.png
+    searchwords: 灵梦御所 lingmengyusuo lmys reimu.net
+  - title: GMgard - 绅士之庭
+    url: https://gmgard.com/
+    favicon: img/gmgard.com.png
+    searchwords: GMgard - 绅士之庭 shenshizhiting sszt gmgard.com
+  - title: 御宅同萌
+    url: https://acg-moe.com/
+    favicon: img/moe.com.png
+    searchwords: 御宅同萌 yuzhaitongmeng yztm moe.com
+  - title: 绅士仓库
+    url: https://cangku.io/
+    favicon: img/cangku.io.png
+    searchwords: 绅士仓库 shenshicangku ssck cangku.io
+  - title: 绅士仓库网址发布页
+    url: https://galacg.github.io/
+    favicon: ""
+    searchwords: 绅士仓库网址发布页 shenshicangkuwangzhifabuye ssckwzfby github.io
+- category: Anime-番剧下载
+  links:
+  - title: 萌番组
+    url: https://bangumi.moe/
+    favicon: ""
+    searchwords: 萌番组 mengfanzu mfz bangumi.moe
+  - title: 蜜柑计划
+    url: https://mikanani.me/
+    favicon: img/mikanani.me.png
+    searchwords: 蜜柑计划 miganjihua mgjh mikanani.me
+  - title: 动漫花园
+    url: https://share.dmhy.org/
+    favicon: img/share.dmhy.org.png
+    searchwords: 动漫花园 dongmanhuayuan dmhy dmhy.org
+  - title: VCB-Studio
+    url: https://vcb-s.com/
+    favicon: img/s.com.png
+    searchwords: VCB-Studio   s.com
+  - title: VCB-Studio分享论坛
+    url: http://bbs.vcb-s.com/forum.php
+    favicon: img/bbs.vcb,s.com,forum.php.png
+    searchwords: VCB-Studio分享论坛 fenxiangluntan fxlt bbs.vcb
+  - title: MioBT
+    url: https://miobt.com/
+    favicon: img/miobt.com.png
+    searchwords: MioBT   miobt.com
+  - title: 爱恋动漫BT下载
+    url: https://www.kisssub.org/
+    favicon: img/www.kisssub.org.png
+    searchwords: 爱恋动漫BT下载 ailiandongmanxiazai aldmxz kisssub.org
+  - title: 漫猫动漫BT下载
+    url: https://www.comicat.org/
+    favicon: img/www.comicat.org.png
+    searchwords: 漫猫动漫BT下载 manmaodongmanxiazai mmdmxz comicat.org
+  - title: Saya is not a lolicon
+    url: https://loli.coffee/
+    favicon: img/loli.coffee.png
+    searchwords: Saya is not a lolicon   loli.coffee
+  - title: nyaa
+    url: https://nyaa.si/
+    favicon: img/nyaa.si.png
+    searchwords: nyaa   nyaa.si
+  - title: ACG.RIP
+    url: https://acg.rip/
+    favicon: img/acg.rip.png
+    searchwords: ACG.RIP   acg.rip
+- category: Anime-图片
+  links:
+  - title: pixiv
+    url: https://www.pixiv.net/
+    favicon: img/www.pixiv.net.png
+    searchwords: pixiv   pixiv.net
+  - title: yande.re
+    url: https://yande.re/post
+    favicon: img/yande.re.png
+    searchwords: yande.re   yande.re
+  - title: Konachan.com
+    url: https://konachan.com/
+    favicon: img/konachan.com.png
+    searchwords: Konachan.com   konachan.com
+  - title: KAGAYA
+    url: http://www.kagayastudio.com/index.html
+    favicon: ""
+    searchwords: KAGAYA   kagayastudio.com
+  - title: 绝对领域
+    url: https://www.jdlingyu.com
+    favicon: img/www.jdlingyu.com.png
+    searchwords: 绝对领域 jueduilingyu jdly jdlingyu.com
+  - title: 媚韵
+    url: http://meiyuns.com/
+    favicon: img/meiyuns.com.png
+    searchwords: 媚韵 meiyun my meiyuns.com
+  - title: 百合图片
+    url: http://yuriimg.com/
+    favicon: img/yuriimg.com.png
+    searchwords: 百合图片 baihetupian bhtp yuriimg.com
+  - title: Pinterest
+    url: https://www.pinterest.com/
+    favicon: img/www.pinterest.com.png
+    searchwords: Pinterest   pinterest.com
+  - title: Pixiv Illustration Collection
+    url: https://sharemoe.net/
+    favicon: img/sharemoe.net.png
+    searchwords: Pixiv Illustration Collection   sharemoe.net
+  - title: Anime-Pictures
+    url: https://anime-pictures.net/?lang=zh_CN
+    favicon: img/anime-pictures.net.png
+    searchwords: Anime-Pictures   pictures.net
+- category: Anime-轻小说
+  links:
+  - title: 轻小说文库
+    url: http://www.wenku8.net/index.php
+    favicon: img/www.wenku8.net,index.php.png
+    searchwords: 轻小说文库 qingxiaoshuowenku qxswk wenku8.net
+  - title: 轻之国度
+    url: https://www.lightnovel.us/
+    favicon: img/www.lightnovel.us.png
+    searchwords: 轻之国度 qingzhiguodu qzgd lightnovel.us
+  - title: ESJ Zone
+    url: https://www.esjzone.cc/
+    favicon: img/www.esjzone.cc.png
+    searchwords: ESJ Zone   esjzone.cc
+  - title: 亲小说网
+    url: https://www.qinxiaoshuo.com/
+    favicon: ""
+    searchwords: 亲小说网 qinxiaoshuowang qxsw qinxiaoshuo.com
+  - title: 哔哩轻小说
+    url: https://www.linovelib.com/
+    favicon: img/www.linovelib.com.png
+    searchwords: 哔哩轻小说 biliqingxiaoshuo blqxs linovelib.com
+- category: Anime-音乐
+  links:
+  - title: Biu~
+    url: https://biu.moe/
+    favicon: img/biu.moe.png
+    searchwords: Biu~   biu.moe
+  - title: ACG漫音社
+    url: https://www.acgjc.com/
+    favicon: img/www.acgjc.com.png
+    searchwords: ACG漫音社 manyinshe mys acgjc.com
+  - title: 自購自分享-偶像大师
+    url: https://wfhtony.github.io/categories/%E9%9B%9C%E8%AB%87/%E8%87%AA%E8%B3%BC%E8%87%AA%E5%88%86%E4%BA%AB/
+    favicon: ""
+    searchwords: 自購自分享-偶像大师 zigouzifenxiangouxiangdashi zgzfxoxds github.io
+  - title: 梦幻旋律论坛
+    url: https://www.astost.com/bbs/
+    favicon: img/www.astost.com.png
+    searchwords: 梦幻旋律论坛 menghuanxuanlvluntan mhxllt astost.com
+- category: Anime-漫画
+  links:
+  - title: 看漫画
+    url: https://www.manhuagui.com/
+    favicon: img/www.manhuagui.com.png
+    searchwords: 看漫画 kanmanhua kmh manhuagui.com
+  - title: 漫画堆
+    url: https://www.manhuabei.com/
+    favicon: img/www.manhuabei.com.png
+    searchwords: 漫画堆 manhuadui mhd manhuabei.com
+  - title: 动漫之家漫画网
+    url: http://manhua.dmzj.com/
+    favicon: img/manhua.dmzj.com.png
+    searchwords: 动漫之家漫画网 dongmanzhijiamanhuawang dmzjmhw dmzj.com
+  - title: Mangakakalot
+    url: https://mangakakalot.com/
+    favicon: img/mangakakalot.com.png
+    searchwords: Mangakakalot   mangakakalot.com
+  - title: mox.moe
+    url: https://mox.moe
+    favicon: img/mox.moe.png
+    searchwords: mox.moe   mox.moe
+- category: Anime-二次元购物
+  links:
+  - title: 魔法集市玛沙多拉
+    url: http://www.masadora.net/
+    favicon: img/www.masadora.net.png
+    searchwords: 魔法集市玛沙多拉 mofajishimashaduola mfjsmsdl masadora.net
+  - title: 任意门日淘
+    url: https://www.doorzo.com/
+    favicon: img/www.doorzo.com.png
+    searchwords: 任意门日淘 renyimenritao rymrt doorzo.com
+  - title: HOYOYO日本代购
+    url: https://cn.hoyoyo.com/
+    favicon: img/cn.hoyoyo.com.png
+    searchwords: HOYOYO日本代购 ribendaigou rbdg hoyoyo.com
+  - title: Nyato喵特漫展
+    url: https://nyato.com/
+    favicon: img/nyato.com.png
+    searchwords: Nyato喵特漫展 miaotemanzhan mtmz nyato.com
+- category: Anime-工具
+  links:
+  - title: YuC AnimeList
+    url: https://yuc.wiki/
+    favicon: img/yuc.wiki.png
+    searchwords: YuC AnimeList   yuc.wiki
+  - title: 'WAIT: What Anime Is This?'
+    url: https://trace.moe/
+    favicon: img/trace.moe.png
+    searchwords: 'WAIT: What Anime Is This?   trace.moe'
+  - title: Multi-service image search
+    url: https://iqdb.org/
+    favicon: img/iqdb.org.png
+    searchwords: Multi-service image search   iqdb.org
+  - title: SauceNAO
+    url: https://saucenao.com/
+    favicon: img/saucenao.com.png
+    searchwords: SauceNAO   saucenao.com
+  - title: 一言API
+    url: https://moa.moe/hitoapi
+    favicon: img/moa.moe.png
+    searchwords: 一言API yiyan yy moa.moe
+  - title: S1漫区投票统计
+    url: http://s1vote.com/
+    favicon: ""
+    searchwords: S1漫区投票统计 manqutoupiaotongji mqtptj s1vote.com
+  - title: Stage1st 动漫投票鉴赏
+    url: http://labs.ieph.net/s1acvotecloud/
+    favicon: img/labs.ieph.net.png
+    searchwords: Stage1st 动漫投票鉴赏 dongmantoupiaojianshang dmtpjs ieph.net
+  - title: LoveLive! 查卡器
+    url: https://card.niconi.co.ni/
+    favicon: ""
+    searchwords: LoveLive! 查卡器 chakaqi ckq co.ni
+  - title: 誠也の部屋
+    url: http://seiya-saiga.com/
+    favicon: img/saiga.com.png
+    searchwords: 誠也の部屋 chengyebuwu cybw saiga.com
+  - title: Kirara Fantasia Analysis Wiki
+    url: https://wiki.kirafan.moe/
+    favicon: img/wiki.kirafan.moe.png
+    searchwords: Kirara Fantasia Analysis Wiki   kirafan.moe
+- category: XXX
+  links:
+  - title: Anime Hentai Video
+    url: https://hanime.tv/
+    favicon: img/hanime.tv.png
+    searchwords: Anime Hentai Video   hanime.tv
+  - title: Animeid Hentai
+    url: https://animeidhentai.com/
+    favicon: img/animeidhentai.com.png
+    searchwords: Animeid Hentai   animeidhentai.com
+  - title: HentaiPulse
+    url: https://hentaipulse.com/
+    favicon: img/hentaipulse.com.png
+    searchwords: HentaiPulse   hentaipulse.com
+  - title: Sukebei Nyaa
+    url: https://sukebei.nyaa.si/?f=0&c=1_1&q=
+    favicon: img/sukebei.nyaa.si.png
+    searchwords: Sukebei Nyaa   nyaa.si
+  - title: Avgle
+    url: https://avgle.com/
+    favicon: img/avgle.com.png
+    searchwords: Avgle   avgle.com
+  - title: Jable.TV
+    url: https://jable.tv/
+    favicon: img/jable.tv.png
+    searchwords: Jable.TV   jable.tv
+  - title: SpankBang
+    url: https://www.spankbang.com/
+    favicon: img/www.spankbang.com.png
+    searchwords: SpankBang   spankbang.com
+  - title: JavBus
+    url: https://www.javbus.com/
+    favicon: img/www.javbus.com.png
+    searchwords: JavBus   javbus.com
+  - title: X Anime Porn
+    url: http://www.xanimeporn.com/
+    favicon: img/www.xanimeporn.com.png
+    searchwords: X Anime Porn   xanimeporn.com
+  - title: Hentai Haven
+    url: https://hentaihaven.co/
+    favicon: img/hentaihaven.co.png
+    searchwords: Hentai Haven   hentaihaven.co
+  - title: saber酱的抱枕
+    url: https://saber.love/
+    favicon: img/saber.love.png
+    searchwords: saber酱的抱枕 jiangdebaozhen jdbz saber.love
+  - title: 老司机导航
+    url: http://www.laosj123.com/
+    favicon: ""
+    searchwords: 老司机导航 laosijidaohang lsjdh laosj123.com
+  - title: nijie
+    url: http://nijie.info/
+    favicon: img/nijie.info.png
+    searchwords: nijie   nijie.info
+  - title: UnderHentai
+    url: https://www.underhentai.net/
+    favicon: img/www.underhentai.net.png
+    searchwords: UnderHentai   underhentai.net
+  - title: 番号网
+    url: http://www.hxboys.com/
+    favicon: img/www.hxboys.com.png
+    searchwords: 番号网 fanhaowang fhw hxboys.com
+  - title: JAV Torrent 掲示板
+    url: http://www.freedl.org/
+    favicon: img/www.freedl.org.png
+    searchwords: JAV Torrent 掲示板 jieshiban jsb freedl.org
+  - title: 次元宅
+    url: https://www.acguz.com/
+    favicon: img/www.acguz.com.png
+    searchwords: 次元宅 ciyuanzhai cyz acguz.com
+  - title: viral.porn
+    url: https://viralporn.com/
+    favicon: img/viralporn.com.png
+    searchwords: viral.porn   viralporn.com
+  - title: Porn Dude
+    url: https://theporndude.com/zh
+    favicon: img/theporndude.com.png
+    searchwords: Porn Dude   theporndude.com
+  - title: aTLoB
+    url: https://atlob.org/
+    favicon: img/atlob.org.png
+    searchwords: aTLoB   atlob.org
+  - title: ACG绅士天堂
+    url: http://acgheaven.club
+    favicon: img/acgheaven.club.png
+    searchwords: ACG绅士天堂 shenshitiantang sstt acgheaven.club
+  - title: Hentai sharing
+    url: https://hentai-sharing.net/
+    favicon: img/sharing.net.png
+    searchwords: Hentai sharing   sharing.net
+  - title: av-Drive
+    url: https://av-drive.blogspot.com/
+    favicon: img/drive.blogspot.com.png
+    searchwords: av-Drive   blogspot.com
+  - title: 伊莉討論區
+    url: http://www.eyny.com/
+    favicon: img/www.eyny.com.png
+    searchwords: 伊莉討論區 yilitaolunqu yltlq eyny.com
+  - title: EroVoice
+    url: https://dl.erovoice.us/
+    favicon: img/dl.erovoice.us.png
+    searchwords: EroVoice   erovoice.us
+  - title: e绅士社区
+    url: https://c-hentai.com/
+    favicon: img/hentai.com.png
+    searchwords: e绅士社区 shenshishequ sssq hentai.com
+  - title: E-Hentai
+    url: https://e-hentai.org/
+    favicon: img/hentai.org.png
+    searchwords: E-Hentai   hentai.org
+  - title: NyaHentai
+    url: https://cathentai.com/
+    favicon: img/cathentai.com.ico
+    searchwords: NyaHentai   cathentai.com
+- category: 工具
+  links:
+  - title: 维基百科
+    url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
+    favicon: img/zh.wikipedia.org.png
+    searchwords: 维基百科 weijibaike wjbk wikipedia.org
+  - title: XDA Forums
+    url: https://forum.xda-developers.com/
+    favicon: img/forum.xda,developers.com.png
+    searchwords: XDA Forums   forum.xda
+  - title: DistroWatch
+    url: http://distrowatch.com/index.php?language=CN
+    favicon: img/distrowatch.com,index.php.png
+    searchwords: DistroWatch   distrowatch.com
+  - title: X-Air Global Airport
+    url: https://gkd.wdnmd.app/register?aff=3526
+    favicon: img/gkd.wdnmd.app.png
+    searchwords: X-Air Global Airport   wdnmd.app
+  - title: Sakura Frp
+    url: https://www.natfrp.com/
+    favicon: img/www.natfrp.com.png
+    searchwords: Sakura Frp   natfrp.com
+  - title: Google 我的帐户
+    url: https://accounts.google.com/b/0/IssuedAuthSubTokens
+    favicon: img/accounts.google.com.png
+    searchwords: Google 我的帐户 wodezhanghu wdzh google.com
+  - title: Google 我的活动
+    url: https://myactivity.google.com/myactivity
+    favicon: img/myactivity.google.com.png
+    searchwords: Google 我的活动 wodehuodong wdhd google.com
+  - title: cppreference
+    url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
+    favicon: img/zh.cppreference.com.png
+    searchwords: cppreference   cppreference.com
+  - title: ZeroTier Central
+    url: https://my.zerotier.com/
+    favicon: img/my.zerotier.com.png
+    searchwords: ZeroTier Central   zerotier.com
+  - title: Convertio — 文件转换器
+    url: https://convertio.co/zh/
+    favicon: img/convertio.co.png
+    searchwords: Convertio — 文件转换器 wenjianzhuanhuanqi wjzhq convertio.co
+  - title: Greasy Fork
+    url: https://greasyfork.org/zh-CN
+    favicon: img/greasyfork.org.png
+    searchwords: Greasy Fork   greasyfork.org
+  - title: 网站测速 17CE
+    url: https://www.17ce.com/
+    favicon: img/www.17ce.com.png
+    searchwords: 网站测速 17CE wangzhancesu wzcs 17ce.com
+  - title: 东北大学IP地址归属查询
+    url: http://geoip.neu6.edu.cn/
+    favicon: ""
+    searchwords: 东北大学IP地址归属查询 dongbeidaxuedezhiguishuchaxun dbdxdzgscx edu.cn
+  - title: IP 查询 (ip.skk.moe)
+    url: https://ip.skk.moe
+    favicon: img/ip.skk.moe.png
+    searchwords: IP 查询 (ip.skk.moe) chaxun cx skk.moe
+  - title: IP Address Lookup
+    url: https://ip.sb
+    favicon: img/ip.sb.png
+    searchwords: IP Address Lookup   ip.sb
+  - title: bitwarden
+    url: https://bitwarden.com/
+    favicon: img/bitwarden.com.png
+    searchwords: bitwarden   bitwarden.com
+  - title: Wolfram
+    url: https://www.wolframalpha.com/
+    favicon: img/www.wolframalpha.com.png
+    searchwords: Wolfram   wolframalpha.com
+  - title: 征信中心
+    url: http://www.pbccrc.org.cn/
+    favicon: ""
+    searchwords: 征信中心 zhengxinzhongxin zxzx org.cn
+  - title: 北京市小客车指标管理信息系统
+    url: http://www.bjhjyd.gov.cn/
+    favicon: img/www.bjhjyd.gov.cn.png
+    searchwords: 北京市小客车指标管理信息系统 beijingshixiaokechezhibiaoguanlixinxixitong bjsxkczbglxxxt
+      gov.cn
+  - title: Compress PDF
+    url: https://docupub.com/pdfcompress/
+    favicon: ""
+    searchwords: Compress PDF   docupub.com
+  - title: Compress PDF 2
+    url: https://www.ilovepdf.com/compress_pdf
+    favicon: img/www.ilovepdf.com.png
+    searchwords: Compress PDF 2   ilovepdf.com
+  - title: BT下载历史
+    url: https://iknowwhatyoudownload.com/en/peer/
+    favicon: img/iknowwhatyoudownload.com.png
+    searchwords: BT下载历史 xiazailishi xzls iknowwhatyoudownload.com
+  - title: IPv6 Tunnel Broker
+    url: https://tunnelbroker.net/
+    favicon: img/tunnelbroker.net.png
+    searchwords: IPv6 Tunnel Broker   tunnelbroker.net
+  - title: DokuWiki
+    url: https://www.dokuwiki.org/
+    favicon: img/www.dokuwiki.org.png
+    searchwords: DokuWiki   dokuwiki.org
+  - title: PageSpeed Insights
+    url: https://developers.google.com/speed/pagespeed/insights/
+    favicon: img/developers.google.com.png
+    searchwords: PageSpeed Insights   google.com
+  - title: Create LaTeX tables online
+    url: https://www.tablesgenerator.com/
+    favicon: img/www.tablesgenerator.com.png
+    searchwords: Create LaTeX tables online   tablesgenerator.com
+  - title: ASCIIFlow Infinity
+    url: http://asciiflow.com/
+    favicon: img/asciiflow.com.png
+    searchwords: ASCIIFlow Infinity   asciiflow.com
+  - title: Server酱
+    url: https://sc.ftqq.com/
+    favicon: img/sc.ftqq.com.png
+    searchwords: Server酱 jiang j ftqq.com
+  - title: 1024Tools
+    url: https://1024tools.com/
+    favicon: img/1024tools.com.png
+    searchwords: 1024Tools   1024tools.com
+  - title: 程序员的工具箱
+    url: https://tool.lu/
+    favicon: img/tool.lu.png
+    searchwords: 程序员的工具箱 chengxuyuandegongjuxiang cxydgjx tool.lu
+  - title: TMP.link
+    url: https://app.tmp.link/
+    favicon: img/app.tmp.link.png
+    searchwords: TMP.link   tmp.link
+  - title: MIUI历史版本
+    url: https://miuiver.com/
+    favicon: img/miuiver.com.png
+    searchwords: MIUI历史版本 lishibanben lsbb miuiver.com
+  - title: Xiaomi Firmware Updater
+    url: https://xiaomifirmwareupdater.com/
+    favicon: img/xiaomifirmwareupdater.com.png
+    searchwords: Xiaomi Firmware Updater   xiaomifirmwareupdater.com
+  - title: Cubox
+    url: https://cubox.pro/
+    favicon: img/cubox.pro.png
+    searchwords: Cubox   cubox.pro
+  - title: Pinbox
+    url: https://withpinbox.com/
+    favicon: img/withpinbox.com.png
+    searchwords: Pinbox   withpinbox.com
+- category: 开发
+  links:
+  - title: GitHub
+    url: https://github.com/Izumiko
+    favicon: img/github.com.png
+    searchwords: GitHub   github.com
+  - title: Github Star Manager
+    url: https://app.astralapp.com/dashboard
+    favicon: img/app.astralapp.com.png
+    searchwords: Github Star Manager   astralapp.com
+  - title: GitLab
+    url: https://gitlab.com/
+    favicon: img/gitlab.com.png
+    searchwords: GitLab   gitlab.com
+  - title: Bitbucket
+    url: https://bitbucket.org/
+    favicon: img/bitbucket.org.png
+    searchwords: Bitbucket   bitbucket.org
+  - title: 开源中国
+    url: https://www.oschina.net/
+    favicon: img/www.oschina.net.png
+    searchwords: 开源中国 kaiyuanzhongguo kyzg oschina.net
+  - title: 码云
+    url: https://gitee.com/
+    favicon: img/gitee.com.png
+    searchwords: 码云 mayun my gitee.com
+  - title: Ideone
+    url: https://ideone.com/
+    favicon: img/ideone.com.png
+    searchwords: Ideone   ideone.com
+  - title: GCE
+    url: https://console.cloud.google.com/
+    favicon: img/console.cloud.google.com.png
+    searchwords: GCE   google.com
+  - title: Stack Overflow
+    url: https://stackoverflow.com/
+    favicon: img/stackoverflow.com.png
+    searchwords: Stack Overflow   stackoverflow.com
+  - title: SegmentFault
+    url: https://segmentfault.com/
+    favicon: img/segmentfault.com.png
+    searchwords: SegmentFault   segmentfault.com
+  - title: Linaro
+    url: https://www.linaro.org/downloads/
+    favicon: img/www.linaro.org.png
+    searchwords: Linaro   linaro.org
+  - title: Nim中文社区
+    url: https://nim-lang-cn.org/
+    favicon: img/nim-lang-cn.org.png
+    searchwords: Nim中文社区 zhongwenshequ zwsq cn.org
+- category: 教程&资料
+  links:
+  - title: ArchWiki
+    url: https://wiki.archlinux.org/
+    favicon: img/wiki.archlinux.org.png
+    searchwords: ArchWiki   archlinux.org
+  - title: Linux mainline - linux-sunxi
+    url: https://linux-sunxi.org/Linux_mainlining_effort
+    favicon: img/sunxi.org.png
+    searchwords: Linux mainline - linux-sunxi   sunxi.org
+  - title: Mainline U-Boot - linux-sunxi
+    url: https://linux-sunxi.org/Mainline_U-boot
+    favicon: img/sunxi.org.png
+    searchwords: Mainline U-Boot - linux-sunxi   sunxi.org
+  - title: 恩山WIFI论坛
+    url: http://www.right.com.cn/forum/forum-72-1.html
+    favicon: img/www.right.com.cn,1.html.png
+    searchwords: 恩山WIFI论坛 enshanluntan eslt com.cn
+  - title: 矿渣社区
+    url: http://bbs.nas66.com/
+    favicon: img/bbs.nas66.com.png
+    searchwords: 矿渣社区 kuangzhashequ kzsq nas66.com
+  - title: NAS云论坛
+    url: http://www.nasyun.com/
+    favicon: img/www.nasyun.com.png
+    searchwords: NAS云论坛 yunluntan ylt nasyun.com
+  - title: Boot option - Rockchip
+    url: http://opensource.rock-chips.com/wiki_Boot_option
+    favicon: ""
+    searchwords: Boot option - Rockchip   opensource.rock
+  - title: linux-meson
+    url: http://linux-meson.com/doku.php
+    favicon: img/meson.com,doku.php.png
+    searchwords: linux-meson   meson.com
+  - title: 看雪安全论坛
+    url: https://bbs.pediy.com/
+    favicon: img/bbs.pediy.com.png
+    searchwords: 看雪安全论坛 kanxueanquanluntan kxaqlt pediy.com
+  - title: 黑果小兵的部落阁
+    url: https://blog.daliansky.net/
+    favicon: img/blog.daliansky.net.png
+    searchwords: 黑果小兵的部落阁 heiguoxiaobingdebuluoge hgxbdblg daliansky.net
+- category: 学习
+  links:
+  - title: Google 学术搜索
+    url: https://scholar.google.com/
+    favicon: img/scholar.google.com.png
+    searchwords: Google 学术搜索 xueshusousuo xsss google.com
+  - title: Web of Science
+    url: https://apps.webofknowledge.com/?DestApp=WOS&editions=SCI
+    favicon: ""
+    searchwords: Web of Science   webofknowledge.com
+  - title: Sci-Hub
+    url: https://sci-hub.se/
+    favicon: img/hub.se.png
+    searchwords: Sci-Hub   hub.se
+  - title: Library Genesis
+    url: http://libgen.rs/
+    favicon: img/libgen.rs.png
+    searchwords: Library Genesis   libgen.rs
+  - title: arXiv
+    url: https://arxiv.org/
+    favicon: img/arxiv.org.png
+    searchwords: arXiv   arxiv.org
+  - title: Researcher
+    url: https://www.researcher-app.com/
+    favicon: img/www.researcher,app.com.png
+    searchwords: Researcher   www.researcher
+  - title: 最新SCI期刊查询及投稿分析系统
+    url: http://www.letpub.com.cn/index.php?page=journalapp
+    favicon: img/www.letpub.com.cn,index.php.png
+    searchwords: 最新SCI期刊查询及投稿分析系统 zuixinqikanchaxunjitougaofenxixitong zxqkcxjtgfxxt
+      com.cn
+  - title: Coursera
+    url: https://www.coursera.org/
+    favicon: img/www.coursera.org.png
+    searchwords: Coursera   coursera.org
+  - title: Airfoil Tools
+    url: http://www.airfoiltools.com/
+    favicon: img/www.airfoiltools.com.png
+    searchwords: Airfoil Tools   airfoiltools.com
+  - title: Crossref
+    url: https://www.crossref.org/
+    favicon: img/www.crossref.org.png
+    searchwords: Crossref   crossref.org
+  - title: Palabos
+    url: https://palabos.unige.ch/
+    favicon: img/palabos.unige.ch.png
+    searchwords: Palabos   unige.ch
+  - title: Palabos Forum
+    url: https://palabos-forum.unige.ch/
+    favicon: img/forum.unige.ch.png
+    searchwords: Palabos Forum   unige.ch
+  - title: OpenLB
+    url: https://www.openlb.net/
+    favicon: img/www.openlb.net.png
+    searchwords: OpenLB   openlb.net
+  - title: 流体中文网
+    url: http://www.cfluid.com/
+    favicon: img/www.cfluid.com.png
+    searchwords: 流体中文网 liutizhongwenwang ltzww cfluid.com
+  - title: 雅思网上报名
+    url: https://ielts.neea.edu.cn/
+    favicon: ""
+    searchwords: 雅思网上报名 yasiwangshangbaoming yswsbm edu.cn
+- category: 娱乐游戏
+  links:
+  - title: Steam
+    url: https://store.steampowered.com/
+    favicon: img/store.steampowered.com.png
+    searchwords: Steam   steampowered.com
+  - title: Epic Games
+    url: https://www.epicgames.com/store/zh-CN/
+    favicon: img/www.epicgames.com.png
+    searchwords: Epic Games   epicgames.com
+  - title: 碧蓝航线WIKI
+    url: https://wiki.biligame.com/blhx/%E9%A6%96%E9%A1%B5
+    favicon: img/wiki.biligame.com.png
+    searchwords: 碧蓝航线WIKI bilanhangxian blhx biligame.com
+  - title: 原神WIKI
+    url: https://wiki.biligame.com/ys/%E9%A6%96%E9%A1%B5
+    favicon: img/wiki.biligame.com.png
+    searchwords: 原神WIKI yuanshen ys biligame.com
+  - title: Netflix
+    url: https://www.netflix.com/
+    favicon: img/www.netflix.com.png
+    searchwords: Netflix   netflix.com
+  - title: 豆瓣FM
+    url: https://douban.fm/
+    favicon: img/douban.fm.png
+    searchwords: 豆瓣FM douban db douban.fm
+  - title: 其乐 Keylol - SteamCN
+    url: https://keylol.com/
+    favicon: img/keylol.com.png
+    searchwords: 其乐 Keylol - SteamCN qile ql keylol.com
+  - title: TapTap
+    url: https://www.taptap.com/
+    favicon: img/www.taptap.com.png
+    searchwords: TapTap   taptap.com
+  - title: WARFRAME中文维基
+    url: https://warframe.huijiwiki.com/
+    favicon: img/warframe.huijiwiki.com.png
+    searchwords: WARFRAME中文维基 zhongwenweiji zwwj huijiwiki.com
+  - title: osu!
+    url: https://osu.ppy.sh/
+    favicon: img/osu.ppy.sh.png
+    searchwords: osu!   ppy.sh
+  - title: 射手网(伪)
+    url: http://assrt.net/
+    favicon: img/assrt.net.png
+    searchwords: 射手网(伪) sheshouwangwei ssww assrt.net
+  - title: Warframe Market
+    url: https://warframe.market/
+    favicon: img/warframe.market.png
+    searchwords: Warframe Market   warframe.market
+  - title: mora
+    url: http://mora.jp/
+    favicon: img/mora.jp.png
+    searchwords: mora   mora.jp
+  - title: Lutris
+    url: https://lutris.net/
+    favicon: img/lutris.net.png
+    searchwords: Lutris   lutris.net
+  - title: SteamDB
+    url: https://steamdb.info/
+    favicon: img/steamdb.info.png
+    searchwords: SteamDB   steamdb.info
+- category: 购物
+  links:
+  - title: 淘宝网
+    url: https://www.taobao.com/
+    favicon: img/www.taobao.com.png
+    searchwords: 淘宝网 taobaowang tbw taobao.com
+  - title: 京东
+    url: https://www.jd.com/
+    favicon: img/www.jd.com.png
+    searchwords: 京东 jingdong jd jd.com
+  - title: 亚马逊CN
+    url: https://www.amazon.cn/
+    favicon: img/www.amazon.cn.png
+    searchwords: 亚马逊CN yamaxun ymx amazon.cn
+  - title: 亚马逊JP
+    url: https://www.amazon.co.jp/
+    favicon: img/www.amazon.co.jp.png
+    searchwords: 亚马逊JP yamaxun ymx co.jp
+  - title: 亚马逊US
+    url: https://www.amazon.com/
+    favicon: img/www.amazon.com.png
+    searchwords: 亚马逊US yamaxun ymx amazon.com
+  - title: PayPal网上支付
+    url: https://www.paypal.com/
+    favicon: img/www.paypal.com.png
+    searchwords: PayPal网上支付 wangshangzhifu wszf paypal.com
+  - title: 什么值得买
+    url: https://www.smzdm.com/
+    favicon: img/www.smzdm.com.png
+    searchwords: 什么值得买 shenmezhidemai smzdm smzdm.com
+  - title: 逮蝦戶
+    url: https://daixiahu.co/
+    favicon: img/daixiahu.co.png
+    searchwords: 逮蝦戶 daixiahu dxh daixiahu.co
+  - title: 网飞账号
+    url: https://www.dxnf.xyz/product/
+    favicon: img/www.dxnf.xyz.png
+    searchwords: 网飞账号 wangfeizhanghao wfzh dxnf.xyz
+  - title: apple美区礼品卡
+    url: https://www.apple.com/shop/gift-cards/itunes-electronic
+    favicon: img/www.apple.com.png
+    searchwords: apple美区礼品卡 meiqulipinka mqlpk apple.com
+  - title: apple日区礼品卡
+    url: https://www.apple.com/jp/shop/gift-cards/itunes-electronic
+    favicon: img/www.apple.com.png
+    searchwords: apple日区礼品卡 riqulipinka rqlpk apple.com
+- category: 软件
+  links:
+  - title: 0DayDown
+    url: https://www.0daydown.com/
+    favicon: img/www.0daydown.com.png
+    searchwords: 0DayDown   0daydown.com
+  - title: 奥学网
+    url: https://6so.so/
+    favicon: ""
+    searchwords: 奥学网 aoxuewang axw 6so.so
+  - title: 懒得勤快的博客
+    url: https://masuit.com/
+    favicon: img/masuit.com.png
+    searchwords: 懒得勤快的博客 landeqinkuaideboke ldqkdbk masuit.com
+  - title: 吾爱破解
+    url: https://www.52pojie.cn/
+    favicon: img/www.52pojie.cn.png
+    searchwords: 吾爱破解 wuaipojie wapj 52pojie.cn
+  - title: 看雪学院
+    url: https://www.kanxue.com/
+    favicon: img/www.kanxue.com.png
+    searchwords: 看雪学院 kanxuexueyuan kxxy kanxue.com
+  - title: 飞扬时空作品汇总
+    url: http://blog.sina.com.cn/s/blog_89a729a40102wjwp.html
+    favicon: img/blog.sina.com.cn.png
+    searchwords: 飞扬时空作品汇总 feiyangshikongzuopinhuizong fyskzphz com.cn
+- category: 云
+  links:
+  - title: Domain Name Price
+    url: https://www.domcomp.com/
+    favicon: img/www.domcomp.com.png
+    searchwords: Domain Name Price   domcomp.com
+  - title: NameBeta 国际域名搜索
+    url: https://namebeta.com/
+    favicon: img/namebeta.com.png
+    searchwords: NameBeta 国际域名搜索 guojiyumingsousuo gjymss namebeta.com
+  - title: Freenom
+    url: https://my.freenom.com/clientarea.php?action=domains
+    favicon: ""
+    searchwords: Freenom   freenom.com
+  - title: 爱名网
+    url: https://www.22.cn/
+    favicon: img/www.22.cn.png
+    searchwords: 爱名网 aimingwang amw 22.cn
+  - title: porkbun
+    url: https://porkbun.com/
+    favicon: img/porkbun.com.png
+    searchwords: porkbun   porkbun.com
+  - title: Namecheap
+    url: https://www.namecheap.com/
+    favicon: img/www.namecheap.com.png
+    searchwords: Namecheap   namecheap.com
+  - title: NameSilo
+    url: https://www.namesilo.com/
+    favicon: img/www.namesilo.com.png
+    searchwords: NameSilo   namesilo.com
+  - title: Gandi
+    url: https://www.gandi.net/zh-hans
+    favicon: img/www.gandi.net.png
+    searchwords: Gandi   gandi.net
+  - title: 新网
+    url: http://www.xinnet.com/
+    favicon: img/www.xinnet.com.png
+    searchwords: 新网 xinwang xw xinnet.com
+  - title: 趣域网
+    url: https://www.quyu.net/
+    favicon: img/www.quyu.net.png
+    searchwords: 趣域网 quyuwang qyw quyu.net
+  - title: internet.bs域名
+    url: https://internetbs.net/
+    favicon: img/internetbs.net.png
+    searchwords: internet.bs域名 yuming ym internetbs.net
+  - title: 秋玉米
+    url: http://www.qiuyumi.com/
+    favicon: img/www.qiuyumi.com.png
+    searchwords: 秋玉米 qiuyumi qym qiuyumi.com
+  - title: 域名批量扫描
+    url: https://www.west.cn/web/mi/
+    favicon: img/www.west.cn.png
+    searchwords: 域名批量扫描 yumingpiliangsaomiao ymplsm west.cn
+  - title: FreeSSL
+    url: https://freessl.cn/
+    favicon: img/freessl.cn.png
+    searchwords: FreeSSL   freessl.cn
+  - title: 哪煮米
+    url: https://www.nazhumi.com/
+    favicon: img/www.nazhumi.com.png
+    searchwords: 哪煮米 nazhumi nzm nazhumi.com
+  - title: Search Console
+    url: https://www.google.com/webmasters/tools/home?hl=zh-CN&authuser=0
+    favicon: ""
+    searchwords: Search Console   google.com
+  - title: CloudFlare
+    url: https://www.cloudflare.com/
+    favicon: img/www.cloudflare.com.png
+    searchwords: CloudFlare   cloudflare.com
+  - title: Vercel
+    url: https://vercel.com/
+    favicon: img/vercel.com.png
+    searchwords: Vercel   vercel.com
+  - title: 阿里云
+    url: https://cn.aliyun.com/
+    favicon: img/cn.aliyun.com.png
+    searchwords: 阿里云 aliyun aly aliyun.com
+  - title: 腾讯云
+    url: https://www.qcloud.com/
+    favicon: img/www.qcloud.com.png
+    searchwords: 腾讯云 tengxunyun txy qcloud.com
+  - title: 华为云
+    url: https://www.huaweicloud.com/
+    favicon: img/www.huaweicloud.com.png
+    searchwords: 华为云 huaweiyun hwy huaweicloud.com
+  - title: Scaleway
+    url: https://www.scaleway.com/
+    favicon: img/www.scaleway.com.png
+    searchwords: Scaleway   scaleway.com
+  - title: mrvm.net
+    url: https://clients.mrvm.net/index.php
+    favicon: ""
+    searchwords: mrvm.net   mrvm.net
+  - title: BuyVM
+    url: https://buyvm.net/
+    favicon: img/buyvm.net.png
+    searchwords: BuyVM   buyvm.net
+  - title: Oracle Cloud KR
+    url: https://console.ap-seoul-1.oraclecloud.com/
+    favicon: img/console.ap,1.oraclecloud.com.png
+    searchwords: Oracle Cloud KR   console.ap
+  - title: Oracle Cloud US
+    url: https://console.us-phoenix-1.oraclecloud.com/
+    favicon: img/console.us,1.oraclecloud.com.png
+    searchwords: Oracle Cloud US   console.us
+  - title: OneProvider
+    url: https://panel.op-net.com/
+    favicon: ""
+    searchwords: OneProvider   panel.op
+  - title: VirMach
+    url: https://virmach.com/
+    favicon: img/virmach.com.png
+    searchwords: VirMach   virmach.com
+  - title: Bandwagon Host
+    url: https://bwh1.net/
+    favicon: ""
+    searchwords: Bandwagon Host   bwh1.net
+  - title: 雲上蘿莉
+    url: http://idc.la/
+    favicon: img/idc.la.png
+    searchwords: 雲上蘿莉 yunshangluoli ysll idc.la
+  - title: Firebase
+    url: https://firebase.google.com/?hl=zh-cn
+    favicon: img/firebase.google.com.png
+    searchwords: Firebase   google.com
+  - title: Netlify
+    url: https://www.netlify.com/
+    favicon: img/www.netlify.com.png
+    searchwords: Netlify   netlify.com
+  - title: 阿里云香港
+    url: https://myaccount.alibabacloud.com/
+    favicon: img/myaccount.alibabacloud.com.png
+    searchwords: 阿里云香港 aliyunxianggang alyxg alibabacloud.com
+  - title: FirstByte
+    url: https://firstbyte.ru/
+    favicon: img/firstbyte.ru.png
+    searchwords: FirstByte   firstbyte.ru
+  - title: JustHost
+    url: https://justhost.ru/
+    favicon: img/justhost.ru.png
+    searchwords: JustHost   justhost.ru
+  - title: 七牛云存储
+    url: https://portal.qiniu.com/
+    favicon: img/portal.qiniu.com.png
+    searchwords: 七牛云存储 qiniuyuncunchu qnycc qiniu.com
+  - title: 又拍云
+    url: https://www.upyun.com/
+    favicon: img/www.upyun.com.png
+    searchwords: 又拍云 youpaiyun ypy upyun.com
+  - title: Disqus
+    url: https://disqus.com/home/
+    favicon: img/disqus.com.png
+    searchwords: Disqus   disqus.com
+  - title: 萌评论
+    url: https://comment.moe/
+    favicon: ""
+    searchwords: 萌评论 mengpinglun mpl comment.moe
+  - title: AlphaRacks
+    url: https://www.alpharacks.com/myrack/clientarea.php
+    favicon: ""
+    searchwords: AlphaRacks   alpharacks.com
+  - title: Linode
+    url: https://www.linode.com/
+    favicon: img/www.linode.com.png
+    searchwords: Linode   linode.com
+  - title: DigitalOcean
+    url: https://cloud.digitalocean.com/
+    favicon: img/cloud.digitalocean.com.png
+    searchwords: DigitalOcean   digitalocean.com
+  - title: OpenVZ VPS
+    url: https://openvz.io/
+    favicon: img/openvz.io.png
+    searchwords: OpenVZ VPS   openvz.io
+  - title: Hostdare
+    url: https://www.hostdare.com/
+    favicon: img/www.hostdare.com.png
+    searchwords: Hostdare   hostdare.com
+  - title: 萌国ICP备案
+    url: https://icp.gov.moe/
+    favicon: img/icp.gov.moe.png
+    searchwords: 萌国ICP备案 mengguobeian mgba gov.moe
+  - title: AkkoCloud
+    url: https://www.akkocloud.com/
+    favicon: img/www.akkocloud.com.png
+    searchwords: AkkoCloud   akkocloud.com
+- category: 翻译
+  links:
+  - title: 腾讯翻译君
+    url: https://fanyi.qq.com/
+    favicon: img/fanyi.qq.com.png
+    searchwords: 腾讯翻译君 tengxunfanyijun txfyj qq.com
+  - title: 搜狗翻译
+    url: https://fanyi.sogou.com/
+    favicon: img/fanyi.sogou.com.png
+    searchwords: 搜狗翻译 sougoufanyi sgfy sogou.com
+  - title: 有道翻译
+    url: http://fanyi.youdao.com/
+    favicon: img/fanyi.youdao.com.png
+    searchwords: 有道翻译 youdaofanyi ydfy youdao.com
+  - title: Google 翻译
+    url: https://translate.google.com/?hl=zh-CN
+    favicon: img/translate.google.com.png
+    searchwords: Google 翻译 fanyi fy google.com
+  - title: DeepL翻译器
+    url: https://www.deepl.com/translator
+    favicon: img/www.deepl.com.png
+    searchwords: DeepL翻译器 fanyiqi fyq deepl.com
+  - title: 彩云翻译
+    url: https://fanyi.caiyunapp.com/
+    favicon: img/fanyi.caiyunapp.com.png
+    searchwords: 彩云翻译 caiyunfanyi cyfy caiyunapp.com
+  - title: OpenL
+    url: https://openl.club/
+    favicon: img/openl.club.ico
+    searchwords: OpenL   openl.club
+- category: Blogs Collection
+  links:
+  - title: Luminous Home
+    url: https://luotianyi.vc/
+    favicon: img/luotianyi.vc.png
+    searchwords: Luminous Home   luotianyi.vc
+  - title: R 酱小窝
+    url: https://blog.rhilip.info/
+    favicon: img/blog.rhilip.info.png
+    searchwords: R 酱小窝 jiangxiaowo jxw rhilip.info
+  - title: 萌咖
+    url: https://moeclub.org/
+    favicon: img/moeclub.org.png
+    searchwords: 萌咖 mengka mk moeclub.org
+  - title: 神代綺凜の萌化小基地
+    url: https://moe.best/
+    favicon: img/moe.best.png
+    searchwords: 神代綺凜の萌化小基地 shendaiqilinmenghuaxiaojide sdqlmhxjd moe.best
+  - title: ChionLab
+    url: https://blog.chionlab.moe/
+    favicon: img/blog.chionlab.moe.png
+    searchwords: ChionLab   chionlab.moe
+  - title: 星月の部屋
+    url: https://blog.mottomo.moe/
+    favicon: img/blog.mottomo.moe.png
+    searchwords: 星月の部屋 xingyuebuwu xybw mottomo.moe
+  - title: 蜜桃猫
+    url: https://peachcat.org/
+    favicon: img/peachcat.org.png
+    searchwords: 蜜桃猫 mitaomao mtm peachcat.org
+  - title: Vincent折腾笔记
+    url: https://ksana410.github.io/
+    favicon: img/ksana410.github.io.png
+    searchwords: Vincent折腾笔记 zhetengbiji ztbj github.io
+  - title: 书山有路勤为径
+    url: https://sumju.net/
+    favicon: img/sumju.net.png
+    searchwords: 书山有路勤为径 shushanyouluqinweijing ssylqwj sumju.net
+  - title: Sukka Blog
+    url: https://blog.skk.moe/
+    favicon: img/blog.skk.moe.png
+    searchwords: Sukka Blog   skk.moe
+  - title: Yukino 理想乡
+    url: https://neko.re/
+    favicon: img/neko.re.png
+    searchwords: Yukino 理想乡 lixiangxiang lxx neko.re
+  - title: 犬's Blog
+    url: https://moedog.org/
+    favicon: img/moedog.org.png
+    searchwords: 犬's Blog quan q moedog.org
