@@ -321,11 +321,6 @@ index:
     favicon: img/zh.moegirl.org.cn.png
     searchwords: 萌娘百科 mengniangbaike mnbk zh.moegirl.org.cn
     datauriclass: zhmoegirlorgcn
-  - title: H萌娘
-    url: https://www.hmoegirl.com/Mainpage
-    favicon: img/www.hmoegirl.com.png
-    searchwords: H萌娘 mengniang mn www.hmoegirl.com
-    datauriclass: wwwhmoegirlcom
   - title: アニメ新番組
     url: https://bangumi.online/
     favicon: img/bangumi.online.png
