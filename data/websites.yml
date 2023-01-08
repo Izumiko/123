@@ -182,11 +182,6 @@ index:
     favicon: img/byr.pt.png
     searchwords: 北邮人BT beiyouren byr byr.pt
     datauriclass: byrpt
-  - title: 六维空间
-    url: http://bt.neu6.edu.cn/
-    favicon: img/bt.neu6.edu.cn.ico
-    searchwords: 六维空间 liuweikongjian lwkj bt.neu6.edu.cn
-    datauriclass: btneu6educn
   - title: 北京交通大学知行PT
     url: http://pt.zhixing.bjtu.edu.cn/
     favicon: img/pt.zhixing.bjtu.edu.cn.ico
@@ -234,6 +229,11 @@ index:
     favicon: img/photos.google.com.png
     searchwords: Google 相册 xiangce xc photos.google.com
     datauriclass: photosgooglecom
+  - title: 阿里云盘
+    url: https://www.aliyundrive.com/
+    favicon: img/yunpan.aliyun.com.png
+    searchwords: 阿里云盘 aliyunpan alyp www.aliyundrive.com
+    datauriclass: yunpanaliyuncom
   - title: OneDrive
     url: https://onedrive.live.com/
     favicon: img/onedrive.live.com.ico
@@ -274,22 +274,17 @@ index:
     favicon: img/www.seafile.com.png
     searchwords: Seafile   www.seafile.com
     datauriclass: wwwseafilecom
-  - title: 阿里云盘
-    url: https://www.aliyundrive.com/
-    favicon: img/yunpan.aliyun.com.png
-    searchwords: 阿里云盘 aliyunpan alyp www.aliyundrive.com
-    datauriclass: yunpanaliyuncom
 - category: Anime
   links:
   - title: 吐槽弹幕网
-    url: https://www.tucao.one/
-    favicon: img/www.tucao.one.png
-    searchwords: 吐槽弹幕网 tucaodanmuwang tcdmw www.tucao.one
-    datauriclass: wwwtucaoone
+    url: https://www.tucao.cam/
+    favicon: img/www.tucao.cam.png
+    searchwords: 吐槽弹幕网 tucaodanmuwang tcdmw www.tucao.cam
+    datauriclass: wwwtucaocam
   - title: AGE动漫
-    url: https://www.agemys.com/
+    url: https://www.agemys.net
     favicon: img/www.agefans.cc.png
-    searchwords: AGE动漫 dongman dm www.agemys.com
+    searchwords: AGE动漫 dongman dm www.agemys.net
     datauriclass: wwwagefanscc
   - title: 巴哈姆特動畫瘋
     url: https://ani.gamer.com.tw/
@@ -327,9 +322,9 @@ index:
     searchwords: アニメ新番組 xinfanzu xfz bangumi.online
     datauriclass: bangumionline
   - title: 忧郁的loli_忧郁的弟弟
-    url: https://www.okloli.com/
+    url: https://www.ttloli.com/
     favicon: img/www.kkgal.com.png
-    searchwords: 忧郁的loli_忧郁的弟弟 youyudeyouyudedidi yydyyddd www.okloli.com
+    searchwords: 忧郁的loli_忧郁的弟弟 youyudeyouyudedidi yydyyddd www.ttloli.com
     datauriclass: wwwkkgalcom
   - title: Sankaku Complex
     url: https://www.sankakucomplex.com/
@@ -342,9 +337,9 @@ index:
     searchwords: God is Madoka   kami.im
     datauriclass: kamiim
   - title: 萌の领域
-    url: https://www.moe.gal/
+    url: https://www.moezone.org/
     favicon: img/www.moe.fan.png
-    searchwords: 萌の领域 menglingyu mly www.moe.gal
+    searchwords: 萌の领域 menglingyu mly www.moezone.org
     datauriclass: wwwmoefan
   - title: 萌の领域-导航页
     url: https://www.acg.lc/
@@ -362,11 +357,6 @@ index:
     searchwords: 「偶像大师 MillionLive! 」非公式中文资料仓 ouxiangdashifeigongshizhongwenziliaocang
       oxdsfgszwzlc 765pro.theater
     datauriclass: c765protheater
-  - title: 游戏资源-飞雪娱乐网
-    url: https://www.xuefeiw.com/sort/yxzy
-    favicon: img/www.feixuew.com.png
-    searchwords: 游戏资源-飞雪娱乐网 youxiziyuanfeixueyulewang yxzyfxylw www.xuefeiw.com
-    datauriclass: wwwfeixuewcom
 - category: Anime-社区
   links:
   - title: 天使动漫论坛
@@ -375,9 +365,9 @@ index:
     searchwords: 天使动漫论坛 tianshidongmanluntan tsdmlt www.tsdm39.net
     datauriclass: wwwtsdm39net
   - title: 琉璃神社
-    url: https://www.hacg.cat/wp/?lang=cn
+    url: https://www.hacg.mom/wp/?lang=cn
     favicon: img/www.liuli.cat.png
-    searchwords: 琉璃神社 liulishenshe llss www.hacg.cat
+    searchwords: 琉璃神社 liulishenshe llss www.hacg.mom
     datauriclass: wwwliulicat
   - title: 琉璃神社网址发布页
     url: http://acg.gy/
@@ -400,9 +390,9 @@ index:
     searchwords: 御宅同萌 yuzhaitongmeng yztm acg-moe.com
     datauriclass: acg-moecom
   - title: 绅士仓库
-    url: https://cangku.icu/
+    url: https://cangku.moe/
     favicon: img/cangku.io.png
-    searchwords: 绅士仓库 shenshicangku ssck cangku.icu
+    searchwords: 绅士仓库 shenshicangku ssck cangku.moe
     datauriclass: cangkuio
   - title: 绅士仓库网址发布页
     url: https://galacg.github.io/
@@ -451,11 +441,6 @@ index:
     favicon: img/www.comicat.org.png
     searchwords: 漫猫动漫BT下载 manmaodongmanxiazai mmdmxz www.comicat.org
     datauriclass: wwwcomicatorg
-  - title: Saya is not a lolicon
-    url: https://loli.coffee/
-    favicon: img/loli.coffee.png
-    searchwords: Saya is not a lolicon   loli.coffee
-    datauriclass: lolicoffee
   - title: nyaa
     url: https://nyaa.si/
     favicon: img/nyaa.si.png
@@ -574,10 +559,10 @@ index:
     favicon: img/www.baozimh.com.png
     searchwords: 包子漫画 baozimanhua bzmh www.baozimh.com
     datauriclass: wwwbaozimhcom
-  - title: COCOMANGA
-    url: https://www.cocomanga.com/
+  - title: COLAMANGA
+    url: https://www.colamanhua.com/
     favicon: img/www.cocomanga.com.png
-    searchwords: COCOMANGA   www.cocomanga.com
+    searchwords: COLAMANGA   www.colamanhua.com
     datauriclass: wwwcocomangacom
   - title: 动漫之家漫画网
     url: http://manhua.dmzj.com/
@@ -670,6 +655,11 @@ index:
     favicon: img/animeidhentai.com.png
     searchwords: Animeid Hentai   animeidhentai.com
     datauriclass: animeidhentaicom
+  - title: ecchi iwara
+    url: https://ecchi.iwara.tv/videos-3
+    favicon: img/www.iwara.tv.png
+    searchwords: ecchi iwara   ecchi.iwara.tv
+    datauriclass: wwwiwaratv
   - title: HentaiPulse
     url: https://hentaipulse.com/
     favicon: img/hentaipulse.com.png
@@ -959,9 +949,9 @@ index:
     searchwords: 程序员的工具箱 chengxuyuandegongjuxiang cxydgjx tool.lu
     datauriclass: toollu
   - title: TMP.link
-    url: https://app.tmp.link/
+    url: https://tmp.link/
     favicon: img/app.tmp.link.png
-    searchwords: TMP.link   app.tmp.link
+    searchwords: TMP.link   tmp.link
     datauriclass: apptmplink
   - title: MIUI历史版本
     url: https://miuiver.com/
@@ -1040,11 +1030,11 @@ index:
     favicon: img/segmentfault.com.png
     searchwords: SegmentFault   segmentfault.com
     datauriclass: segmentfaultcom
-  - title: Linaro
-    url: https://www.linaro.org/downloads/
-    favicon: img/www.linaro.org.png
-    searchwords: Linaro   www.linaro.org
-    datauriclass: wwwlinaroorg
+  - title: ARM GNU Toolchain
+    url: https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
+    favicon: img/developer.arm.com.png
+    searchwords: ARM GNU Toolchain   developer.arm.com
+    datauriclass: developerarmcom
   - title: Nim中文社区
     url: https://nim-lang-cn.org/
     favicon: img/nim-lang-cn.org.png
@@ -1356,11 +1346,6 @@ index:
     favicon: img/www.kanxue.com.png
     searchwords: 看雪学院 kanxuexueyuan kxxy www.kanxue.com
     datauriclass: wwwkanxuecom
-  - title: 飞扬时空作品汇总
-    url: http://blog.sina.com.cn/s/blog_89a729a40102wjwp.html
-    favicon: img/blog.sina.com.cn.png
-    searchwords: 飞扬时空作品汇总 feiyangshikongzuopinhuizong fyskzphz blog.sina.com.cn
-    datauriclass: blogsinacomcn
 - category: 云
   links:
   - title: Domain Name Price
@@ -1538,11 +1523,6 @@ index:
     favicon: img/disqus.com.png
     searchwords: Disqus   disqus.com
     datauriclass: disquscom
-  - title: 萌评论
-    url: https://comment.moe/
-    favicon: ""
-    searchwords: 萌评论 mengpinglun mpl comment.moe
-    datauriclass: nofavicon
   - title: Linode
     url: https://www.linode.com/
     favicon: img/www.linode.com.png
@@ -1682,3 +1662,8 @@ index:
     favicon: img/blog.jiawei.xin.png
     searchwords: 莘家小站 shenjiaxiaozhan sjxz blog.jiawei.xin
     datauriclass: blogjiaweixin
+  - title: Dosk 技术站
+    url: https://dosk.win/
+    favicon: img/dosk.win.ico
+    searchwords: Dosk 技术站 jishuzhan jsz dosk.win
+    datauriclass: doskwin
