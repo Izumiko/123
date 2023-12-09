@@ -1,4 +1,4 @@
-baseURL = "https://7t.ee/"
+baseURL = "https://idx.one/"
 languageCode = "zh-CN"
 title = "个人网址导航"
 theme = "bookmark"
@@ -6,4 +6,5 @@ disablePathToLower = true
 hasCJKLanguage = true
 disableKinds = ['taxonomy', 'term', 'sitemap']
 [params]
-  useDataUri = true
+  useDataUri = false
+  useCssSprites = true
