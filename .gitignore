@@ -1,5 +1,8 @@
 node_modules
 .vscode
+.hugo_build.lock
+updateData
+updateData.exe
 
 *.log
 
@@ -13,3 +16,9 @@ public
 dist
 public
 resources
+
+data/websites-old.yml
+content/img-old
+static/assets/siteimg-old.css
+static/assets/siteimgsprite-old.css
+static/assets/sitesprites-old.png

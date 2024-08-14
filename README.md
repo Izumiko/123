@@ -12,9 +12,7 @@ add bookmarks to `data/websites.yml`
 
 build updateData tool with golang, then run it in current folder.
 
-new data will locate at `data/new.yml`.
-
-then move `data/new.yml` to `data/websites.yml`, and delete `content/img-old` folder.
+After verifying the newly generated `data/websites.yml` and `content/img`, delete the `data/websites-old.yml` and `content/img-old`.
 
 ## build website
 
