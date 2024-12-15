@@ -131,6 +131,12 @@ index:
           searchwords: Gemini   gemini.google.com
           datauriclass: geminigooglecom
           faviconclass: geminigooglecom
+        - title: DDG AI Chat
+          url: https://duckduckgo.com/aichat
+          favicon: img/duckduckgo.com.png
+          searchwords: DDG AI Chat   duckduckgo.com
+          datauriclass: duckduckgocom
+          faviconclass: duckduckgocom
         - title: Perplexity
           url: https://www.perplexity.ai/
           favicon: img/www.perplexity.ai.png
@@ -261,6 +267,12 @@ index:
           searchwords: 北邮人BT beiyouren byr byr.pt
           datauriclass: byrpt
           faviconclass: byrpt
+        - title: 北洋园
+          url: https://tjupt.org/
+          favicon: img/tjupt.org.png
+          searchwords: 北洋园 beiyangyuan byy tjupt.org
+          datauriclass: tjuptorg
+          faviconclass: tjuptorg
         - title: 北京交通大学知行PT
           url: http://pt.zhixing.bjtu.edu.cn/
           favicon: img/pt.zhixing.bjtu.edu.cn.png
@@ -471,10 +483,10 @@ index:
           faviconclass: vtbsmoe
         - title: 極彩花夢
           url: https://ksy.moe/
-          favicon: ""
+          favicon: img/ksy.moe.png
           searchwords: 極彩花夢 jicaihuameng jchm ksy.moe
-          datauriclass: nofavicon
-          faviconclass: nofavicon
+          datauriclass: ksymoe
+          faviconclass: ksymoe
         - title: Kemono
           url: https://kemono.su/
           favicon: img/kemono.su.png
@@ -665,10 +677,10 @@ index:
           faviconclass: wwwesjzonecc
         - title: 不可能的世界
           url: https://www.8kana.com/
-          favicon: ""
+          favicon: img/www.8kana.com.png
           searchwords: 不可能的世界 bukenengdeshijie bkndsj www.8kana.com
-          datauriclass: nofavicon
-          faviconclass: nofavicon
+          datauriclass: www8kanacom
+          faviconclass: www8kanacom
     - category: Anime-音乐
       links:
         - title: Biu~
@@ -1951,10 +1963,10 @@ index:
           faviconclass: idcwiki
         - title: PoloCloud
           url: https://polocloud.net/
-          favicon: ""
+          favicon: img/polocloud.net.png
           searchwords: PoloCloud   polocloud.net
-          datauriclass: nofavicon
-          faviconclass: nofavicon
+          datauriclass: polocloudnet
+          faviconclass: polocloudnet
         - title: LowEndTalk
           url: https://lowendtalk.com/
           favicon: img/lowendtalk.com.png
