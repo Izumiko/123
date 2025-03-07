@@ -43,12 +43,6 @@ index:
           searchwords: Bangumi   bgm.tv
           datauriclass: bgmtv
           faviconclass: bgmtv
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          favicon: img/www.inoreader.com.png
-          searchwords: Inoreader   www.inoreader.com
-          datauriclass: wwwinoreadercom
-          faviconclass: wwwinoreadercom
     - category: 邮箱
       links:
         - title: Outlook
@@ -87,12 +81,6 @@ index:
           searchwords: 网易邮箱 wangyiyouxiang wyyx email.163.com
           datauriclass: email163com
           faviconclass: email163com
-        - title: Migadu Webmail
-          url: https://webmail.migadu.com/
-          favicon: img/webmail.migadu.com.png
-          searchwords: Migadu Webmail   webmail.migadu.com
-          datauriclass: webmailmigaducom
-          faviconclass: webmailmigaducom
         - title: Proton Mail
           url: https://proton.me/mail
           favicon: img/proton.me.png
@@ -131,12 +119,12 @@ index:
           searchwords: Gemini   gemini.google.com
           datauriclass: geminigooglecom
           faviconclass: geminigooglecom
-        - title: DDG AI Chat
-          url: https://duckduckgo.com/aichat
-          favicon: img/duckduckgo.com.png
-          searchwords: DDG AI Chat   duckduckgo.com
-          datauriclass: duckduckgocom
-          faviconclass: duckduckgocom
+        - title: Duck AI
+          url: https://duck.ai
+          favicon: img/duck.ai.png
+          searchwords: Duck AI   duck.ai
+          datauriclass: duckai
+          faviconclass: duckai
         - title: Perplexity
           url: https://www.perplexity.ai/
           favicon: img/www.perplexity.ai.png
@@ -155,12 +143,18 @@ index:
           searchwords: 通义千问 tongyiqianwen tyqw tongyi.aliyun.com
           datauriclass: tongyialiyuncom
           faviconclass: tongyialiyuncom
-        - title: 天工AI
-          url: https://www.tiangong.cn/
+        - title: DeepSeek
+          url: https://chat.deepseek.com
           favicon: img/www.tiangong.cn.png
-          searchwords: 天工AI tiangong tg www.tiangong.cn
+          searchwords: DeepSeek   chat.deepseek.com
           datauriclass: wwwtiangongcn
           faviconclass: wwwtiangongcn
+        - title: Qwen
+          url: https://chat.qwen.ai/
+          favicon: img/chat.qwen.ai.png
+          searchwords: Qwen   chat.qwen.ai
+          datauriclass: chatqwenai
+          faviconclass: chatqwenai
         - title: OpenRouter
           url: https://openrouter.ai/
           favicon: img/openrouter.ai.png
@@ -187,6 +181,12 @@ index:
           searchwords: Stage1st   bbs.saraba1st.com
           datauriclass: bbssaraba1stcom
           faviconclass: bbssaraba1stcom
+        - title: Linux Do
+          url: https://linux.do
+          favicon: img/linux.do.png
+          searchwords: Linux Do   linux.do
+          datauriclass: linuxdo
+          faviconclass: linuxdo
         - title: 知乎
           url: https://www.zhihu.com/
           favicon: img/www.zhihu.com.png
@@ -273,12 +273,6 @@ index:
           searchwords: 北洋园 beiyangyuan byy tjupt.org
           datauriclass: tjuptorg
           faviconclass: tjuptorg
-        - title: 北京交通大学知行PT
-          url: http://pt.zhixing.bjtu.edu.cn/
-          favicon: img/pt.zhixing.bjtu.edu.cn.png
-          searchwords: 北京交通大学知行PT beijingjiaotongdaxuezhixing bjjtdxzx pt.zhixing.bjtu.edu.cn
-          datauriclass: ptzhixingbjtueducn
-          faviconclass: ptzhixingbjtueducn
         - title: ExoticaZ
           url: https://exoticaz.to/
           favicon: img/exoticaz.to.png
@@ -365,12 +359,6 @@ index:
           searchwords: 天翼云网盘 tianyiyunwangpan tyywp cloud.189.cn
           datauriclass: cloud189cn
           faviconclass: cloud189cn
-        - title: 北航云盘
-          url: https://bhpan.buaa.edu.cn/
-          favicon: img/bhpan.buaa.edu.cn.png
-          searchwords: 北航云盘 beihangyunpan bhyp bhpan.buaa.edu.cn
-          datauriclass: bhpanbuaaeducn
-          faviconclass: bhpanbuaaeducn
         - title: 和彩云
           url: https://yun.139.com/
           favicon: img/yun.139.com.png
@@ -398,9 +386,9 @@ index:
           datauriclass: bgmlistcom
           faviconclass: bgmlistcom
         - title: 吐槽弹幕网
-          url: https://www.tucao.help/
+          url: https://www.tucao.my/
           favicon: img/www.tucao.cam.png
-          searchwords: 吐槽弹幕网 tucaodanmuwang tcdmw www.tucao.help
+          searchwords: 吐槽弹幕网 tucaodanmuwang tcdmw www.tucao.my
           datauriclass: wwwtucaocam
           faviconclass: wwwtucaocam
         - title: 巴哈姆特動畫瘋
@@ -463,18 +451,6 @@ index:
           searchwords: God is Madoka   kami.im
           datauriclass: kamiim
           faviconclass: kamiim
-        - title: 萌の领域
-          url: https://www.moezone.dev/
-          favicon: img/www.moe.fan.png
-          searchwords: 萌の领域 menglingyu mly www.moezone.dev
-          datauriclass: wwwmoefan
-          faviconclass: wwwmoefan
-        - title: 萌の领域-导航页
-          url: https://www.acg.lc/
-          favicon: img/www.acg.lc.png
-          searchwords: 萌の领域-导航页 menglingyudaohangye mlydhy www.acg.lc
-          datauriclass: wwwacglc
-          faviconclass: wwwacglc
         - title: VTBs in bilibili
           url: https://vtbs.moe/
           favicon: img/vtbs.moe.png
@@ -508,15 +484,15 @@ index:
           datauriclass: wwwtsdm39net
           faviconclass: wwwtsdm39net
         - title: 琉璃神社
-          url: https://www.hacg.mov/wp/?lang=cn
+          url: https://www.hacg.icu/wp/?lang=cn
           favicon: img/www.liuli.cat.png
-          searchwords: 琉璃神社 liulishenshe llss www.hacg.mov
+          searchwords: 琉璃神社 liulishenshe llss www.hacg.icu
           datauriclass: wwwliulicat
           faviconclass: wwwliulicat
         - title: 琉璃神社网址发布页
-          url: http://acg.gy/
+          url: http://liuli.app/
           favicon: ""
-          searchwords: 琉璃神社网址发布页 liulishenshewangzhifabuye llsswzfby acg.gy
+          searchwords: 琉璃神社网址发布页 liulishenshewangzhifabuye llsswzfby liuli.app
           datauriclass: nofavicon
           faviconclass: nofavicon
         - title: 灵梦御所
@@ -543,6 +519,18 @@ index:
           searchwords: 绅士仓库网址发布页 shenshicangkuwangzhifabuye ssckwzfby galacg.pages.dev
           datauriclass: galacgpagesdev
           faviconclass: galacgpagesdev
+        - title: 萌の领域
+          url: https://www.moezone.dev/
+          favicon: img/www.moe.fan.png
+          searchwords: 萌の领域 menglingyu mly www.moezone.dev
+          datauriclass: wwwmoefan
+          faviconclass: wwwmoefan
+        - title: 萌の领域-导航页
+          url: https://www.acg.lc/
+          favicon: img/www.acg.lc.png
+          searchwords: 萌の领域-导航页 menglingyudaohangye mlydhy www.acg.lc
+          datauriclass: wwwacglc
+          faviconclass: wwwacglc
         - title: 北+ North Plus
           url: https://www.north-plus.net/
           favicon: img/www.north-plus.net.png
@@ -637,16 +625,10 @@ index:
           searchwords: 绝对领域 jueduilingyu jdly www.jdlingyu.com
           datauriclass: wwwjdlingyucom
           faviconclass: wwwjdlingyucom
-        - title: Pinterest
-          url: https://www.pinterest.com/
-          favicon: img/www.pinterest.com.png
-          searchwords: Pinterest   www.pinterest.com
-          datauriclass: wwwpinterestcom
-          faviconclass: wwwpinterestcom
         - title: Pixiv Illustration Collection
-          url: https://sharemoe.net/
+          url: https://pixivic.com
           favicon: img/sharemoe.net.png
-          searchwords: Pixiv Illustration Collection   sharemoe.net
+          searchwords: Pixiv Illustration Collection   pixivic.com
           datauriclass: sharemoenet
           faviconclass: sharemoenet
         - title: Anime-Pictures
@@ -681,14 +663,14 @@ index:
           searchwords: 不可能的世界 bukenengdeshijie bkndsj www.8kana.com
           datauriclass: www8kanacom
           faviconclass: www8kanacom
+        - title: 轻小说机翻机器人
+          url: https://books.fishhawk.top/
+          favicon: img/books.fishhawk.top.png
+          searchwords: 轻小说机翻机器人 qingxiaoshuojifanjiqiren qxsjfjqr books.fishhawk.top
+          datauriclass: booksfishhawktop
+          faviconclass: booksfishhawktop
     - category: Anime-音乐
       links:
-        - title: Biu~
-          url: https://biu.moe/
-          favicon: img/biu.moe.png
-          searchwords: Biu~   biu.moe
-          datauriclass: biumoe
-          faviconclass: biumoe
         - title: ACG漫音社
           url: http://www.acgjc.com/
           favicon: img/www.acgjc.com.png
@@ -707,12 +689,6 @@ index:
           searchwords: ASMR Online   www.asmr.one
           datauriclass: wwwasmrone
           faviconclass: wwwasmrone
-        - title: ASMR Online 最新域名
-          url: https://as.mr/
-          favicon: img/as.mr.png
-          searchwords: ASMR Online 最新域名 zuixinyuming zxym as.mr
-          datauriclass: asmr
-          faviconclass: asmr
         - title: Hentai ASMR
           url: https://www.hentaiasmr.moe/
           favicon: img/www.hentaiasmr.moe.png
@@ -739,12 +715,6 @@ index:
           searchwords: COLAMANGA   www.colamanhua.com
           datauriclass: wwwcocomangacom
           faviconclass: wwwcocomangacom
-        - title: 动漫之家漫画网
-          url: https://comic.idmzj.com/
-          favicon: img/manhua.dmzj.com.png
-          searchwords: 动漫之家漫画网 dongmanzhijiamanhuawang dmzjmhw comic.idmzj.com
-          datauriclass: manhuadmzjcom
-          faviconclass: manhuadmzjcom
         - title: Kox.moe- Kindle漫画
           url: https://kox.moe
           favicon: img/kox.moe.png
@@ -753,18 +723,12 @@ index:
           faviconclass: koxmoe
     - category: Anime-二次元购物
       links:
-        - title: 魔法集市玛沙多拉
-          url: https://www.masadora.net/
-          favicon: img/www.masadora.net.png
-          searchwords: 魔法集市玛沙多拉 mofajishimashaduola mfjsmsdl www.masadora.net
-          datauriclass: wwwmasadoranet
-          faviconclass: wwwmasadoranet
         - title: 任意门日淘
-          url: https://www.doorzo.com/
-          favicon: img/www.doorzo.com.png
-          searchwords: 任意门日淘 renyimenritao rymrt www.doorzo.com
-          datauriclass: wwwdoorzocom
-          faviconclass: wwwdoorzocom
+          url: https://www.doorzo.cn/
+          favicon: img/www.doorzo.cn.png
+          searchwords: 任意门日淘 renyimenritao rymrt www.doorzo.cn
+          datauriclass: wwwdoorzocn
+          faviconclass: wwwdoorzocn
         - title: HOYOYO日本代购
           url: https://cn.hoyoyo.com/
           favicon: img/cn.hoyoyo.com.png
@@ -797,10 +761,10 @@ index:
           searchwords: YuC AnimeList   yuc.wiki
           datauriclass: yucwiki
           faviconclass: yucwiki
-        - title: 'WAIT: What Anime Is This?'
+        - title: What Anime Is This
           url: https://trace.moe/
           favicon: img/trace.moe.png
-          searchwords: 'WAIT: What Anime Is This?   trace.moe'
+          searchwords: What Anime Is This   trace.moe
           datauriclass: tracemoe
           faviconclass: tracemoe
         - title: Multi-service image search
@@ -845,6 +809,12 @@ index:
           searchwords: Romaji Converter   nihongodera.com
           datauriclass: nihongoderacom
           faviconclass: nihongoderacom
+        - title: AnimeTrace
+          url: https://ai.animedb.cn/
+          favicon: ""
+          searchwords: AnimeTrace   ai.animedb.cn
+          datauriclass: nofavicon
+          faviconclass: nofavicon
     - category: XXX
       links:
         - title: hstream
@@ -997,6 +967,24 @@ index:
           searchwords: h-nextgen   surprise-level.blogspot.com
           datauriclass: surprise-levelblogspotcom
           faviconclass: surprise-levelblogspotcom
+        - title: 里世界
+          url: https://epanime.org/
+          favicon: img/epanime.org.png
+          searchwords: 里世界 lishijie lsj epanime.org
+          datauriclass: epanimeorg
+          faviconclass: epanimeorg
+        - title: SakuraCircle
+          url: https://sakuracircle.com/
+          favicon: img/sakuracircle.com.png
+          searchwords: SakuraCircle   sakuracircle.com
+          datauriclass: sakuracirclecom
+          faviconclass: sakuracirclecom
+        - title: Cosplay Porn Videos
+          url: https://cosxplay.com/
+          favicon: img/cosxplay.com.png
+          searchwords: Cosplay Porn Videos   cosxplay.com
+          datauriclass: cosxplaycom
+          faviconclass: cosxplaycom
     - category: 工具
       links:
         - title: 维基百科
@@ -1035,6 +1023,12 @@ index:
           searchwords: X-Air Global Airport   x.wdnmd.app
           datauriclass: gkdwdnmdapp
           faviconclass: gkdwdnmdapp
+        - title: OpenFrp
+          url: https://www.openfrp.net/
+          favicon: img/www.openfrp.net.png
+          searchwords: OpenFrp   www.openfrp.net
+          datauriclass: wwwopenfrpnet
+          faviconclass: wwwopenfrpnet
         - title: Sakura Frp
           url: https://www.natfrp.com/
           favicon: img/www.natfrp.com.png
@@ -1203,10 +1197,10 @@ index:
           searchwords: MIUI历史版本 lishibanben lsbb miuiver.com
           datauriclass: miuivercom
           faviconclass: miuivercom
-        - title: Xiaomi Firmware Updater
-          url: https://xiaomifirmwareupdater.com/
+        - title: XM Firmware Updater
+          url: https://xmfirmwareupdater.com/
           favicon: img/xiaomifirmwareupdater.com.png
-          searchwords: Xiaomi Firmware Updater   xiaomifirmwareupdater.com
+          searchwords: XM Firmware Updater   xmfirmwareupdater.com
           datauriclass: xiaomifirmwareupdatercom
           faviconclass: xiaomifirmwareupdatercom
         - title: Cubox
@@ -1239,6 +1233,24 @@ index:
           searchwords: SM.MS   smms.app
           datauriclass: smmsapp
           faviconclass: smmsapp
+        - title: Self-Hosted Software and Apps
+          url: https://selfh.st/
+          favicon: img/selfh.st.png
+          searchwords: Self-Hosted Software and Apps   selfh.st
+          datauriclass: selfhst
+          faviconclass: selfhst
+        - title: OpenWrt固件下载
+          url: https://openwrt.ai/
+          favicon: img/openwrt.ai.png
+          searchwords: OpenWrt固件下载 gujianxiazai gjxz openwrt.ai
+          datauriclass: openwrtai
+          faviconclass: openwrtai
+        - title: 毫秒API
+          url: https://api.holdai.top/
+          favicon: img/api.holdai.top.png
+          searchwords: 毫秒API haomiao hm api.holdai.top
+          datauriclass: apiholdaitop
+          faviconclass: apiholdaitop
     - category: 开发
       links:
         - title: GitHub
@@ -1253,12 +1265,12 @@ index:
           searchwords: Github Star Manager   app.astralapp.com
           datauriclass: appastralappcom
           faviconclass: appastralappcom
-        - title: GitLab
-          url: https://gitlab.com/
-          favicon: img/gitlab.com.png
-          searchwords: GitLab   gitlab.com
-          datauriclass: gitlabcom
-          faviconclass: gitlabcom
+        - title: Codeberg.org
+          url: https://codeberg.org/
+          favicon: img/codeberg.org.png
+          searchwords: Codeberg.org   codeberg.org
+          datauriclass: codebergorg
+          faviconclass: codebergorg
         - title: Bitbucket
           url: https://bitbucket.org/
           favicon: img/bitbucket.org.png
@@ -1289,6 +1301,12 @@ index:
           searchwords: 码云 mayun my gitee.com
           datauriclass: giteecom
           faviconclass: giteecom
+        - title: Compiler Explorer
+          url: https://godbolt.org/
+          favicon: img/godbolt.org.png
+          searchwords: Compiler Explorer   godbolt.org
+          datauriclass: godboltorg
+          faviconclass: godboltorg
         - title: Ideone
           url: https://ideone.com/
           favicon: img/ideone.com.png
@@ -1357,6 +1375,18 @@ index:
           searchwords: Mainline U-Boot - linux-sunxi   linux-sunxi.org
           datauriclass: linux-sunxiorg
           faviconclass: linux-sunxiorg
+        - title: Milk-V
+          url: https://milkv.io/zh/docs
+          favicon: img/milkv.io.png
+          searchwords: Milk-V   milkv.io
+          datauriclass: milkvio
+          faviconclass: milkvio
+        - title: KCORES - 氪金核心
+          url: https://kcores.com/
+          favicon: img/kcores.com.png
+          searchwords: KCORES - 氪金核心 kejinhexin kjhx kcores.com
+          datauriclass: kcorescom
+          faviconclass: kcorescom
         - title: 恩山WIFI论坛
           url: https://www.right.com.cn/forum/forum-72-1.html
           favicon: img/www.right.com.cn.png
@@ -1388,17 +1418,11 @@ index:
           datauriclass: linux-mesoncom
           faviconclass: linux-mesoncom
         - title: 看雪安全论坛
-          url: https://bbs.pediy.com/
-          favicon: img/bbs.pediy.com.png
-          searchwords: 看雪安全论坛 kanxueanquanluntan kxaqlt bbs.pediy.com
-          datauriclass: bbspediycom
-          faviconclass: bbspediycom
-        - title: 黑果小兵的部落阁
-          url: https://blog.daliansky.net/
-          favicon: img/blog.daliansky.net.png
-          searchwords: 黑果小兵的部落阁 heiguoxiaobingdebuluoge hgxbdblg blog.daliansky.net
-          datauriclass: blogdalianskynet
-          faviconclass: blogdalianskynet
+          url: https://bbs.kanxue.com/
+          favicon: img/bbs.kanxue.com.png
+          searchwords: 看雪安全论坛 kanxueanquanluntan kxaqlt bbs.kanxue.com
+          datauriclass: bbskanxuecom
+          faviconclass: bbskanxuecom
     - category: 学习
       links:
         - title: Google 学术搜索
@@ -1426,23 +1450,23 @@ index:
           datauriclass: sci-hubse
           faviconclass: sci-hubse
         - title: Library Genesis
-          url: http://libgen.rs/
-          favicon: img/libgen.rs.png
-          searchwords: Library Genesis   libgen.rs
-          datauriclass: libgenrs
-          faviconclass: libgenrs
+          url: http://libgen.li/
+          favicon: img/libgen.li.png
+          searchwords: Library Genesis   libgen.li
+          datauriclass: libgenli
+          faviconclass: libgenli
         - title: arXiv
           url: https://arxiv.org/
           favicon: img/arxiv.org.png
           searchwords: arXiv   arxiv.org
           datauriclass: arxivorg
           faviconclass: arxivorg
-        - title: Researcher
-          url: https://www.researcher-app.com/
-          favicon: img/www.researcher-app.com.png
-          searchwords: Researcher   www.researcher-app.com
-          datauriclass: wwwresearcher-appcom
-          faviconclass: wwwresearcher-appcom
+        - title: 安娜的档案
+          url: https://zh.annas-archive.org/
+          favicon: img/zh.annas-archive.org.png
+          searchwords: 安娜的档案 annadedangan andda zh.annas-archive.org
+          datauriclass: zhannas-archiveorg
+          faviconclass: zhannas-archiveorg
         - title: ResearchGate
           url: https://www.researchgate.net/
           favicon: img/www.researchgate.net.png
@@ -1455,6 +1479,12 @@ index:
           searchwords: Typst   typst.app
           datauriclass: typstapp
           faviconclass: typstapp
+        - title: 在线LaTeX公式编辑器
+          url: https://www.latexlive.com/
+          favicon: img/www.latexlive.com.png
+          searchwords: 在线LaTeX公式编辑器 zaixiangongshibianjiqi zxgsbjq www.latexlive.com
+          datauriclass: wwwlatexlivecom
+          faviconclass: wwwlatexlivecom
         - title: 最新SCI期刊查询及投稿分析系统
           url: http://www.letpub.com.cn/index.php?page=journalapp
           favicon: img/www.letpub.com.cn.png
@@ -1715,6 +1745,12 @@ index:
           faviconclass: endoflifedate
     - category: 云
       links:
+        - title: CloudFlare
+          url: https://www.cloudflare.com/
+          favicon: img/www.cloudflare.com.png
+          searchwords: CloudFlare   www.cloudflare.com
+          datauriclass: wwwcloudflarecom
+          faviconclass: wwwcloudflarecom
         - title: Domain Name Price
           url: https://www.domcomp.com/
           favicon: img/www.domcomp.com.png
@@ -1805,12 +1841,6 @@ index:
           searchwords: Search Console   search.google.com
           datauriclass: searchgooglecom
           faviconclass: searchgooglecom
-        - title: CloudFlare
-          url: https://www.cloudflare.com/
-          favicon: img/www.cloudflare.com.png
-          searchwords: CloudFlare   www.cloudflare.com
-          datauriclass: wwwcloudflarecom
-          faviconclass: wwwcloudflarecom
         - title: Vercel
           url: https://vercel.com/
           favicon: img/vercel.com.png
@@ -1883,12 +1913,12 @@ index:
           searchwords: Netlify   www.netlify.com
           datauriclass: wwwnetlifycom
           faviconclass: wwwnetlifycom
-        - title: 阿里云香港
-          url: https://myaccount.alibabacloud.com/
-          favicon: img/myaccount.alibabacloud.com.png
-          searchwords: 阿里云香港 aliyunxianggang alyxg myaccount.alibabacloud.com
-          datauriclass: myaccountalibabacloudcom
-          faviconclass: myaccountalibabacloudcom
+        - title: ServaRica
+          url: https://servarica.com/
+          favicon: img/servarica.com.png
+          searchwords: ServaRica   servarica.com
+          datauriclass: servaricacom
+          faviconclass: servaricacom
         - title: FirstByte
           url: https://firstbyte.ru/
           favicon: img/firstbyte.ru.png
@@ -1967,6 +1997,12 @@ index:
           searchwords: PoloCloud   polocloud.net
           datauriclass: polocloudnet
           faviconclass: polocloudnet
+        - title: 碳云
+          url: https://www.coalcloud.net/
+          favicon: ""
+          searchwords: 碳云 tanyun ty www.coalcloud.net
+          datauriclass: nofavicon
+          faviconclass: nofavicon
         - title: LowEndTalk
           url: https://lowendtalk.com/
           favicon: img/lowendtalk.com.png
@@ -1981,18 +2017,6 @@ index:
           searchwords: 腾讯翻译君 tengxunfanyijun txfyj fanyi.qq.com
           datauriclass: fanyiqqcom
           faviconclass: fanyiqqcom
-        - title: 搜狗翻译
-          url: https://fanyi.sogou.com/
-          favicon: img/fanyi.sogou.com.png
-          searchwords: 搜狗翻译 sougoufanyi sgfy fanyi.sogou.com
-          datauriclass: fanyisogoucom
-          faviconclass: fanyisogoucom
-        - title: 有道翻译
-          url: http://fanyi.youdao.com/
-          favicon: img/fanyi.youdao.com.png
-          searchwords: 有道翻译 youdaofanyi ydfy fanyi.youdao.com
-          datauriclass: fanyiyoudaocom
-          faviconclass: fanyiyoudaocom
         - title: Google 翻译
           url: https://translate.google.com/?hl=zh-CN
           favicon: img/translate.google.com.png
@@ -2005,6 +2029,24 @@ index:
           searchwords: DeepL翻译器 fanyiqi fyq www.deepl.com
           datauriclass: wwwdeeplcom
           faviconclass: wwwdeeplcom
+        - title: 百度翻译
+          url: https://fanyi.baidu.com/
+          favicon: img/fanyi.baidu.com.png
+          searchwords: 百度翻译 baidufanyi bdfy fanyi.baidu.com
+          datauriclass: fanyibaiducom
+          faviconclass: fanyibaiducom
+        - title: 搜狗翻译
+          url: https://fanyi.sogou.com/
+          favicon: img/fanyi.sogou.com.png
+          searchwords: 搜狗翻译 sougoufanyi sgfy fanyi.sogou.com
+          datauriclass: fanyisogoucom
+          faviconclass: fanyisogoucom
+        - title: 有道翻译
+          url: http://fanyi.youdao.com/
+          favicon: img/fanyi.youdao.com.png
+          searchwords: 有道翻译 youdaofanyi ydfy fanyi.youdao.com
+          datauriclass: fanyiyoudaocom
+          faviconclass: fanyiyoudaocom
         - title: 彩云翻译
           url: https://fanyi.caiyunapp.com/
           favicon: img/fanyi.caiyunapp.com.png
@@ -2017,18 +2059,6 @@ index:
           searchwords: OpenL   openl.club
           datauriclass: openlclub
           faviconclass: openlclub
-        - title: 百度翻译
-          url: https://fanyi.baidu.com/
-          favicon: img/fanyi.baidu.com.png
-          searchwords: 百度翻译 baidufanyi bdfy fanyi.baidu.com
-          datauriclass: fanyibaiducom
-          faviconclass: fanyibaiducom
-        - title: 腾讯交互翻译
-          url: https://transmart.qq.com/zh-CN/index
-          favicon: img/transmart.qq.com.png
-          searchwords: 腾讯交互翻译 tengxunjiaohufanyi txjhfy transmart.qq.com
-          datauriclass: transmartqqcom
-          faviconclass: transmartqqcom
     - category: Blogs Collection
       links:
         - title: Luminous Home
@@ -2049,12 +2079,6 @@ index:
           searchwords: 神代綺凜の萌化小基地 shendaiqilinmenghuaxiaojidi sdqlmhxjd moe.best
           datauriclass: moebest
           faviconclass: moebest
-        - title: ChionLab
-          url: https://blog.chionlab.moe/
-          favicon: img/blog.chionlab.moe.png
-          searchwords: ChionLab   blog.chionlab.moe
-          datauriclass: blogchionlabmoe
-          faviconclass: blogchionlabmoe
         - title: 星月の部屋
           url: https://blog.mottomo.moe/
           favicon: img/blog.mottomo.moe.png
