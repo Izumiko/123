@@ -145,10 +145,10 @@ index:
           faviconclass: tongyialiyuncom
         - title: DeepSeek
           url: https://chat.deepseek.com
-          favicon: img/www.tiangong.cn.png
+          favicon: img/chat.deepseek.com.png
           searchwords: DeepSeek   chat.deepseek.com
-          datauriclass: wwwtiangongcn
-          faviconclass: wwwtiangongcn
+          datauriclass: chatdeepseekcom
+          faviconclass: chatdeepseekcom
         - title: Qwen
           url: https://chat.qwen.ai/
           favicon: img/chat.qwen.ai.png
@@ -780,11 +780,11 @@ index:
           datauriclass: saucenaocom
           faviconclass: saucenaocom
         - title: 一言API
-          url: https://moa.moe/hitoapi
-          favicon: img/moa.moe.png
-          searchwords: 一言API yiyan yy moa.moe
-          datauriclass: moamoe
-          faviconclass: moamoe
+          url: https://hitokoto.cn/
+          favicon: img/hitokoto.cn.png
+          searchwords: 一言API yiyan yy hitokoto.cn
+          datauriclass: hitokotocn
+          faviconclass: hitokotocn
         - title: S1漫区投票统计
           url: http://s1vote.com/
           favicon: ""
