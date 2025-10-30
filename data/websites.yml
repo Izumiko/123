@@ -27,10 +27,10 @@ index:
           faviconclass: kagicom
         - title: Kagi Assistant
           url: https://kagi.com/assistant
-          favicon: img/kagi.com.png
+          favicon: img/assit.kagi.com.png
           searchwords: Kagi Assistant   kagi.com
-          datauriclass: kagicom
-          faviconclass: kagicom
+          datauriclass: assitkagicom
+          faviconclass: assitkagicom
         - title: DuckDuckGo
           url: https://start.duckduckgo.com/
           favicon: img/start.duckduckgo.com.png
@@ -337,10 +337,10 @@ index:
           faviconclass: yun139com
         - title: 联通云盘
           url: https://pan.wo.cn/
-          favicon: ""
+          favicon: img/pan.wo.cn.png
           searchwords: 联通云盘 liantongyunpan ltyp pan.wo.cn
-          datauriclass: nofavicon
-          faviconclass: nofavicon
+          datauriclass: panwocn
+          faviconclass: panwocn
     - category: Anime
       links:
         - title: 巴哈姆特動畫瘋
@@ -523,10 +523,10 @@ index:
           faviconclass: acgrip
         - title: Nyaa Pantsu
           url: https://ouo.si/
-          favicon: ""
+          favicon: img/ouo.si.png
           searchwords: Nyaa Pantsu   ouo.si
-          datauriclass: nofavicon
-          faviconclass: nofavicon
+          datauriclass: ouosi
+          faviconclass: ouosi
     - category: Anime-图片
       links:
         - title: pixiv
@@ -695,10 +695,10 @@ index:
           faviconclass: seiya-saigacom
         - title: 动漫图片超分辨率
           url: https://real-cugan.animesales.xyz/
-          favicon: ""
+          favicon: img/real-cugan.animesales.xyz.png
           searchwords: 动漫图片超分辨率 dongmantupianchaofenbianlv dmtpcfbl real-cugan.animesales.xyz
-          datauriclass: nofavicon
-          faviconclass: nofavicon
+          datauriclass: real-cugananimesalesxyz
+          faviconclass: real-cugananimesalesxyz
         - title: Romaji Converter
           url: https://nihongodera.com/tools/romaji-converter
           favicon: img/nihongodera.com.png
@@ -707,10 +707,10 @@ index:
           faviconclass: nihongoderacom
         - title: AnimeTrace
           url: https://ai.animedb.cn/
-          favicon: ""
+          favicon: img/ai.animedb.cn.png
           searchwords: AnimeTrace   ai.animedb.cn
-          datauriclass: nofavicon
-          faviconclass: nofavicon
+          datauriclass: aianimedbcn
+          faviconclass: aianimedbcn
     - category: XXX
       links:
         - title: hstream
@@ -845,12 +845,6 @@ index:
           searchwords: Romantake tokyo   romantake.tokyo
           datauriclass: romantaketokyo
           faviconclass: romantaketokyo
-        - title: Hentai Videos
-          url: https://www.hentaivideos.xyz/
-          favicon: ""
-          searchwords: Hentai Videos   www.hentaivideos.xyz
-          datauriclass: nofavicon
-          faviconclass: nofavicon
         - title: h-nextgen
           url: https://surprise-level.blogspot.com/
           favicon: img/surprise-level.blogspot.com.png
@@ -967,12 +961,6 @@ index:
           searchwords: 网站测速 17CE wangzhancesu wzcs www.17ce.com
           datauriclass: www17cecom
           faviconclass: www17cecom
-        - title: 东北大学IP地址归属查询
-          url: http://geoip.neu6.edu.cn/
-          favicon: ""
-          searchwords: 东北大学IP地址归属查询 dongbeidaxuedizhiguishuchaxun dbdxdzgscx geoip.neu6.edu.cn
-          datauriclass: nofavicon
-          faviconclass: nofavicon
         - title: IP 查询 (ip.skk.moe)
           url: https://ip.skk.moe
           favicon: img/ip.skk.moe.png
@@ -1395,10 +1383,10 @@ index:
           faviconclass: wwwcfluidcom
         - title: 雅思网上报名
           url: https://ielts.neea.edu.cn/
-          favicon: ""
+          favicon: img/ielts.neea.edu.cn.png
           searchwords: 雅思网上报名 yasiwangshangbaoming yswsbm ielts.neea.edu.cn
-          datauriclass: nofavicon
-          faviconclass: nofavicon
+          datauriclass: ieltsneeaeducn
+          faviconclass: ieltsneeaeducn
     - category: 娱乐游戏
       links:
         - title: Steam
@@ -1971,7 +1959,7 @@ index:
           faviconclass: doskwin
         - title: 蔚然小站
           url: https://blog.kkk.rs/
-          favicon: ""
+          favicon: img/blog.kkk.rs.png
           searchwords: 蔚然小站 weiranxiaozhan wrxz blog.kkk.rs
-          datauriclass: nofavicon
-          faviconclass: nofavicon
+          datauriclass: blogkkkrs
+          faviconclass: blogkkkrs
